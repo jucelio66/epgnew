@@ -1,0 +1,3491 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="GLOBO RJ FULLHD">
+    <display-name lang="pt">GLOBO RJ FULLHD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BAND">
+    <display-name lang="pt">BAND</display-name>
+    <icon src="http://www.lineup.tv.br/canais/band.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Record ES">
+    <display-name lang="pt">Record ES</display-name>
+    <icon src="http://www.lineup.tv.br/canais/recordtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SBT">
+    <display-name lang="pt">SBT</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="CARTOON NETWORK HD">
+    <display-name lang="pt">CARTOON NETWORK HD</display-name>
+    <url>http://www.hagah.com.br</url>
+  </channel>
+  <programme start="20180406001500 -0300" stop="20180406010500 -0300" channel="BAND">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Um resumo de tudo que aconteceu de relevante durante o dia, no Brasil e no Mundo. Analises, entrevistas e matérias especiais aprofundam os temas mais importantes(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180406010500 -0300" stop="20180406011000 -0300" channel="BAND">
+    <title lang="pt">Que Fim Levou? - Boletim</title>
+    <desc lang="pt">A memória esportiva brasileira sendo resgatada(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180406011000 -0300" stop="20180406024000 -0300" channel="BAND">
+    <title lang="pt">Cine+ A Cor de Um Crime</title>
+    <desc lang="pt">Durante a madrugada, em um subúrbio de classe média de Nova Jersey, Brenda Martin (Julianne Moore) aparece ensanguentada e muda no Centro Médico de Dempsy(n)</desc>
+    <date>2006</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180406024000 -0300" stop="20180406030000 -0300" channel="BAND">
+    <title lang="pt">Vídeos Incríveis</title>
+    <desc lang="pt">Os Vídeos Incríveis são cenas reais de situações inusitadas: perseguições policiais, flagrantes de acidentes, resgates extraordinários e fenômenos naturais(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180406030000 -0300" stop="20180406060000 -0300" channel="BAND">
+    <title lang="pt">Igreja Universal</title>
+    <desc lang="pt">Informações aos fieis(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180406060000 -0300" stop="20180406070000 -0300" channel="BAND">
+    <title lang="pt">Jornal Bandnews</title>
+    <desc lang="pt">As principais noticias da hora com a equipe do canal especializado em jornalismo, 24 horas por dia(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180406070000 -0300" stop="20180406080000 -0300" channel="BAND">
+    <title lang="pt">Café com Jornal</title>
+    <desc lang="pt">Informação descontraída, leve, dinâmica, com assuntos de interesse imediato. Com a participação de colunistas especializados nos temas que fazem parte do cotidiano. Noticia de qualidade desde cedo(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180406080000 -0300" stop="20180406083000 -0300" channel="BAND">
+    <title lang="pt">Café com Jornal - Edição Brasil</title>
+    <desc lang="pt">Muita prestação de serviço e a participação do público, interagindo com a equipe do noticioso(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180406083000 -0300" stop="20180406085000 -0300" channel="BAND">
+    <title lang="pt">Sempre Bem</title>
+    <desc lang="pt">Informações sobre saúde, bem-estar, beleza e comportamento(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Saúde</category>
+  </programme>
+  <programme start="20180406085000 -0300" stop="20180406095000 -0300" channel="BAND">
+    <title lang="pt">Cozinha do Bork</title>
+    <desc lang="pt">O tradicional programa culinário das manhãs em novo ciclo: renovado, atualizado e repleto de novas receitas. Todas testadas e aprovadas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20180406095000 -0300" stop="20180406110000 -0300" channel="BAND">
+    <title lang="pt">Os Simpsons</title>
+    <desc lang="pt">Cotidiano da família de Homer Simpson em uma sátira ácida e politicamente incorreta ao estilo de vida americano(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180406110000 -0300" stop="20180406123000 -0300" channel="BAND">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">As principais notícias do futebol e um debate diário com jornalistas e esportistas sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180406123000 -0300" stop="20180406130000 -0300" channel="BAND">
+    <title lang="pt">Jogo Aberto - Debate</title>
+    <desc lang="pt">Depois do noticiário é hora de debater as novidades. O programa reúne jornalistas e esportistas para falar sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180406130000 -0300" stop="20180406140000 -0300" channel="BAND">
+    <title lang="pt">Os Donos da Bola</title>
+    <desc lang="pt">Programa de debate sobre futebol comandado pelo craque Neto e que conta com a presença de convidados especiais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180406140000 -0300" stop="20180406150000 -0300" channel="BAND">
+    <title lang="pt">Melhor da Tarde</title>
+    <desc lang="pt">O programa feminino repleto de informação, dicas de saúde, beleza, culinária, notícias dos famosos e muita diversão para animar as suas tardes(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180406150000 -0300" stop="20180406160000 -0300" channel="BAND">
+    <title lang="pt">Melhor da Tarde</title>
+    <desc lang="pt">O programa feminino repleto de informação, dicas de saúde, beleza, culinária, notícias dos famosos e muita diversão para animar as suas tardes(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180406160000 -0300" stop="20180406185000 -0300" channel="BAND">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Sempre ao lado do povo, o programa traz os principais acontecimentos do dia com prioridade para os temas do cotidiano de cada cidadão. O foco é a segurança, a saúde, o trabalho, a mobilidade, o comportamento(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180406185000 -0300" stop="20180406192000 -0300" channel="BAND">
+    <title lang="pt">Brasil Urgente SP</title>
+    <desc lang="pt">Sempre ao lado do povo, o programa traz os principais acontecimentos do dia com prioridade para os temas do cotidiano de cada cidadão. O foco é a segurança, a saúde, o trabalho, a mobilidade, o comportamento(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180406192000 -0300" stop="20180406202500 -0300" channel="BAND">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Os principais fatos do dia no Brasil e no Mundo relatados com imparcialidade e profundidade, por uma equipe de jornalistas a serviço da verdade(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180406202500 -0300" stop="20180406211500 -0300" channel="BAND">
+    <title lang="pt">Amor Proibido E95</title>
+    <desc lang="pt">Após ser flagrado com outra, Behlul vai atrás de Bihter. Adnan descobre que Hilmi está por trás dos depoimentos do julgamento do acidente envolvendo Bihter. Hilmi e Elif engatam um relacionamento(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Turquia</country>
+  </programme>
+  <programme start="20180406211500 -0300" stop="20180406220300 -0300" channel="BAND">
+    <title lang="pt">Igreja Internacional da Graça de Deus</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180406220300 -0300" stop="20180406220500 -0300" channel="BAND">
+    <title lang="pt">Agenda dos Pastores</title>
+    <desc lang="pt">Programa Religioso(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180406220500 -0300" stop="20180406223000 -0300" channel="BAND">
+    <title lang="pt">Vídeonews</title>
+    <desc lang="pt">Notícias e curiosidades unindo informação com diversão, com destaque para o mundo das celebridades(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180406223000 -0300" stop="20180407003000 -0300" channel="BAND">
+    <title lang="pt">Música Na Band</title>
+    <desc lang="pt">A diversidade musical brasileira tem seu espaço assegurado na programação nobre da Band. Um desfile semanal de grandes nomes, com  estilos múltiplos e de grande popularidade(n)</desc>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20180407003000 -0300" stop="20180407011500 -0300" channel="BAND">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Um resumo de tudo que aconteceu de relevante durante o dia, no Brasil e no Mundo. Analises, entrevistas e matérias especiais aprofundam os temas mais importantes(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180407011500 -0300" stop="20180407012000 -0300" channel="BAND">
+    <title lang="pt">Que Fim Levou? - Boletim</title>
+    <desc lang="pt">A memória esportiva brasileira sendo resgatada(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180407012000 -0300" stop="20180407024000 -0300" channel="BAND">
+    <title lang="pt">Cine+ Avalanche De Tubarões</title>
+    <desc lang="pt">Depois de um snowboarder presenciar uma avalanche enquanto esquiava, inúmeros desaparecimentos começam a acontecer na região. O que ninguém sabia é que a avalanche despertou um tubarão pré-histórico que estava soterrado sob a neve(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20180407024000 -0300" stop="20180407030000 -0300" channel="BAND">
+    <title lang="pt">Vídeos Incríveis</title>
+    <desc lang="pt">Os Vídeos Incríveis são cenas reais de situações inusitadas: perseguições policiais, flagrantes de acidentes, resgates extraordinários e fenômenos naturais(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180407030000 -0300" stop="20180407060000 -0300" channel="BAND">
+    <title lang="pt">Igreja Universal</title>
+    <desc lang="pt">Informações aos fieis(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180407060000 -0300" stop="20180407063000 -0300" channel="BAND">
+    <title lang="pt">Cozinha do Bork</title>
+    <desc lang="pt">O tradicional programa culinário das manhãs em novo ciclo: renovado, atualizado e repleto de novas receitas. Todas testadas e aprovadas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20180407063000 -0300" stop="20180407070000 -0300" channel="BAND">
+    <title lang="pt">Terraviva Sustentável</title>
+    <desc lang="pt">O Terraviva Sustentável é um programa sobre agropecuária sustentável, que apresenta ensinamentos e ilustra meios práticos de como produzir e, ao mesmo tempo, preservar o meio ambiente(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Meio Ambiente</category>
+  </programme>
+  <programme start="20180407070000 -0300" stop="20180407073000 -0300" channel="BAND">
+    <title lang="pt">AgroBand</title>
+    <desc lang="pt">Programa Local(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180407073000 -0300" stop="20180407080000 -0300" channel="BAND">
+    <title lang="pt">Somos Agro</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180407080000 -0300" stop="20180407083000 -0300" channel="BAND">
+    <title lang="pt">Depois das Chuteiras</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180407083000 -0300" stop="20180407084500 -0300" channel="BAND">
+    <title lang="pt">Papo de Boleiro</title>
+    <desc lang="pt">Revista semanal sobre todos os esportes, com reportagens, entrevistas, quadros, colunas , pesquisas e bom humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180407084500 -0300" stop="20180407090000 -0300" channel="BAND">
+    <title lang="pt">Papo de Boleiro</title>
+    <desc lang="pt">Revista semanal sobre todos os esportes, com reportagens, entrevistas, quadros, colunas , pesquisas e bom humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180407090000 -0300" stop="20180407093000 -0300" channel="BAND">
+    <title lang="pt">Resenha</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180407093000 -0300" stop="20180407100000 -0300" channel="BAND">
+    <title lang="pt">Gol: O Grande Momento do Futebol</title>
+    <desc lang="pt">O programa coloca na tela uma maratona de gols e lances memoráveis. Um espetáculo para os apaixonados por futebol, que amam rever partidas inesquecíveis, polêmicas e emocionantes(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180407100000 -0300" stop="20180407103000 -0300" channel="BAND">
+    <title lang="pt">Gol: O Grande Momento do Futebol</title>
+    <desc lang="pt">O programa coloca na tela uma maratona de gols e lances memoráveis. Um espetáculo para os apaixonados por futebol, que amam rever partidas inesquecíveis, polêmicas e emocionantes(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180407103000 -0300" stop="20180407110000 -0300" channel="BAND">
+    <title lang="pt">Giro Business</title>
+    <desc lang="pt">O programa tem como objetivo mostrar o mundo empresarial de uma forma acessível ao telespectador. A cada programa, entrevista com um nome de destaque, mostrando in loco como é a gestão de um líder profissional(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180407110000 -0300" stop="20180407113000 -0300" channel="BAND">
+    <title lang="pt">Ponto a Ponto</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180407113000 -0300" stop="20180407120000 -0300" channel="BAND">
+    <title lang="pt">Capital Natural</title>
+    <desc lang="pt">Um debate que registra as mudanças que ocorrem na sociedade em direção ao desenvolvimento sustentável(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180407120000 -0300" stop="20180407123000 -0300" channel="BAND">
+    <title lang="pt">Vitória em Cristo</title>
+    <desc lang="pt">Programa religioso comandado pelo pastor Silas Malafaia(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180407123000 -0300" stop="20180407130000 -0300" channel="BAND">
+    <title lang="pt">Os Simpsons</title>
+    <desc lang="pt">Cotidiano da família de Homer Simpson em uma sátira ácida e politicamente incorreta ao estilo de vida americano(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180407130000 -0300" stop="20180407133000 -0300" channel="BAND">
+    <title lang="pt">Magazine da Liga UEFA</title>
+    <desc lang="pt">O melhor da semana na milionária liga europeia. Reportagens, entrevistas e comentários. Os gols, os lances e as polêmicas do mais rico torneio de clubes do mundo, a Liga dos Campeões da UEFA(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180407133000 -0300" stop="20180407160000 -0300" channel="BAND">
+    <title lang="pt">NBB CAIXA - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Basquete</category>
+  </programme>
+  <programme start="20180407160000 -0300" stop="20180407185000 -0300" channel="BAND">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Sempre ao lado do povo, o programa traz os principais acontecimentos do dia com prioridade para os temas do cotidiano de cada cidadão. O foco é a segurança, a saúde, o trabalho, a mobilidade, o comportamento(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180407185000 -0300" stop="20180407192000 -0300" channel="BAND">
+    <title lang="pt">Brasil Urgente SP</title>
+    <desc lang="pt">Sempre ao lado do povo, o programa traz os principais acontecimentos do dia com prioridade para os temas do cotidiano de cada cidadão. O foco é a segurança, a saúde, o trabalho, a mobilidade, o comportamento(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180407192000 -0300" stop="20180407202500 -0300" channel="BAND">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Os principais fatos do dia no Brasil e no Mundo relatados com imparcialidade e profundidade, por uma equipe de jornalistas a serviço da verdade(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180407202500 -0300" stop="20180407211000 -0300" channel="BAND">
+    <title lang="pt">Amor Proibido E96</title>
+    <desc lang="pt">Nihat coloca as ações da empresa com Hilmi a venda. A vítima do acidente com Bihter volta a andar. Nilay desmaia novamente. Firdevs conta para Adnan que Nilay é apaixonada por Behlul(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Turquia</country>
+  </programme>
+  <programme start="20180407211000 -0300" stop="20180407215700 -0300" channel="BAND">
+    <title lang="pt">Igreja Internacional da Graça de Deus</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180407215700 -0300" stop="20180407220000 -0300" channel="BAND">
+    <title lang="pt">Agenda dos Pastores</title>
+    <desc lang="pt">Programa Religioso(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180407220000 -0300" stop="20180407220500 -0300" channel="BAND">
+    <title lang="pt">Miss - Boletim</title>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180407220500 -0300" stop="20180407223000 -0300" channel="BAND">
+    <title lang="pt">Vídeonews</title>
+    <desc lang="pt">Notícias e curiosidades unindo informação com diversão, com destaque para o mundo das celebridades(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180407223000 -0300" stop="20180408003000 -0300" channel="BAND">
+    <title lang="pt">Fórmula Indy: GP de Phoenix/EUA - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20180408003000 -0300" stop="20180408022000 -0300" channel="BAND">
+    <title lang="pt">Amaury Jr</title>
+    <desc lang="pt">Entrevistas, curiosidades e entretenimento comandado pelo anfitrião mais carismático das tv brasileira(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180408022000 -0300" stop="20180408050500 -0300" channel="BAND">
+    <title lang="pt">Cinema Na Madrugada: O Paciente Inglês</title>
+    <desc lang="pt">No final da Segunda Guerra Mundial, um desconhecido que teve queimaduras generalizadas quando seu avião foi abatido, é conhecido apenas como o paciente inglês. Ele recebe os cuidados de uma enfermeira canadense(n)</desc>
+    <date>1996</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180408050500 -0300" stop="20180408055000 -0300" channel="BAND">
+    <title lang="pt">Os Simpsons</title>
+    <desc lang="pt">Cotidiano da família de Homer Simpson em uma sátira ácida e politicamente incorreta ao estilo de vida americano(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180408055000 -0300" stop="20180408060000 -0300" channel="BAND">
+    <title lang="pt">Vídeos Incríveis</title>
+    <desc lang="pt">Os Vídeos Incríveis são cenas reais de situações inusitadas: perseguições policiais, flagrantes de acidentes, resgates extraordinários e fenômenos naturais(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180408060000 -0300" stop="20180408063000 -0300" channel="BAND">
+    <title lang="pt">Cozinha do Bork</title>
+    <desc lang="pt">O tradicional programa culinário das manhãs em novo ciclo: renovado, atualizado e repleto de novas receitas. Todas testadas e aprovadas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20180408063000 -0300" stop="20180408070000 -0300" channel="BAND">
+    <title lang="pt">Terraviva Sustentável</title>
+    <desc lang="pt">O Terraviva Sustentável é um programa sobre agropecuária sustentável, que apresenta ensinamentos e ilustra meios práticos de como produzir e, ao mesmo tempo, preservar o meio ambiente(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Meio Ambiente</category>
+  </programme>
+  <programme start="20180408070000 -0300" stop="20180408073000 -0300" channel="BAND">
+    <title lang="pt">AgroBand</title>
+    <desc lang="pt">Programa Local(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180408073000 -0300" stop="20180408080000 -0300" channel="BAND">
+    <title lang="pt">Somos Agro</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180408080000 -0300" stop="20180408083000 -0300" channel="BAND">
+    <title lang="pt">Depois das Chuteiras</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180408083000 -0300" stop="20180408084500 -0300" channel="BAND">
+    <title lang="pt">Papo de Boleiro</title>
+    <desc lang="pt">Revista semanal sobre todos os esportes, com reportagens, entrevistas, quadros, colunas , pesquisas e bom humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180408084500 -0300" stop="20180408090000 -0300" channel="BAND">
+    <title lang="pt">Papo de Boleiro</title>
+    <desc lang="pt">Revista semanal sobre todos os esportes, com reportagens, entrevistas, quadros, colunas , pesquisas e bom humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180408090000 -0300" stop="20180408093000 -0300" channel="BAND">
+    <title lang="pt">Resenha</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180408093000 -0300" stop="20180408100000 -0300" channel="BAND">
+    <title lang="pt">Gol: O Grande Momento do Futebol</title>
+    <desc lang="pt">O programa coloca na tela uma maratona de gols e lances memoráveis. Um espetáculo para os apaixonados por futebol, que amam rever partidas inesquecíveis, polêmicas e emocionantes(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180408100000 -0300" stop="20180408103000 -0300" channel="BAND">
+    <title lang="pt">Gol: O Grande Momento do Futebol</title>
+    <desc lang="pt">O programa coloca na tela uma maratona de gols e lances memoráveis. Um espetáculo para os apaixonados por futebol, que amam rever partidas inesquecíveis, polêmicas e emocionantes(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180408103000 -0300" stop="20180408110000 -0300" channel="BAND">
+    <title lang="pt">Pé na Estrada</title>
+    <desc lang="pt">O dia a  dia de quem vive na estrada. Informações, opiniões e dicas para os caminhoneiros(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180408110000 -0300" stop="20180408120000 -0300" channel="BAND">
+    <title lang="pt">Santa Missa - Catedral da Sé</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180408120000 -0300" stop="20180408123000 -0300" channel="BAND">
+    <title lang="pt">Show do Mei</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180408123000 -0300" stop="20180408135000 -0300" channel="BAND">
+    <title lang="pt">Os Simpsons</title>
+    <desc lang="pt">Cotidiano da família de Homer Simpson em uma sátira ácida e politicamente incorreta ao estilo de vida americano(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180408135000 -0300" stop="20180408145000 -0300" channel="BAND">
+    <title lang="pt">Band Esporte Clube</title>
+    <desc lang="pt">Revista semanal de todos os esportes, com reportagens, entrevistas, quadros, colunas , pesquisas e bom humor(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180408145000 -0300" stop="20180408161500 -0300" channel="BAND">
+    <title lang="pt">Documentários BBC</title>
+    <desc lang="pt">A equipe da BBC percorre os continentes para capturar imagens exclusivas retratando da vida dos animais. Os documentários revelam que a inteligência e a curiosidade os ajudam a garantir a sobrevivência(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20180408161500 -0300" stop="20180408175000 -0300" channel="BAND">
+    <title lang="pt">Sessão Livre: Ace Ventura 2 - Um Maluco Na África</title>
+    <desc lang="pt">Após não conseguir salvar um guaxinim, Ace Ventura impôs a si mesmo um exílio entre monges no Himalaia. Mas ele acaba indo viajar para África, a fim de tentar recuperar o grande morcego branco sagrado(n)</desc>
+    <date>1995</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180408175000 -0300" stop="20180408194500 -0300" channel="BAND">
+    <title lang="pt">3º Tempo</title>
+    <desc lang="pt">Um dos mais tradicionais programas esportivos do domingo na TV. Com reportagens nos gramados, nos vestiários e muita opinião sobre os lances polêmicos e o rumo dos campeonatos(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180408194500 -0300" stop="20180408220000 -0300" channel="BAND">
+    <title lang="pt">Só Risos</title>
+    <desc lang="pt">Uma seleção dos vídeos mais engraçados que circulam pelas rede sociais e canais da web(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Comédia</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180408220000 -0300" stop="20180409000000 -0300" channel="BAND">
+    <title lang="pt">Domingo No Cinema: Atrás Das Linhas Inimigas</title>
+    <desc lang="pt">Chris Burnett (Owen Wilson) é um aviador naval experiente que está frustrado por ter sido afastado das missões de combate. Durante uma missão de reconhecimento, Burnett fotografa algo que deveria ser mantido em sigilo(n)</desc>
+    <date>2001</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Guerra</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180409000000 -0300" stop="20180409010000 -0300" channel="BAND">
+    <title lang="pt">Canal Livre</title>
+    <desc lang="pt">Entrevistas com personalidades nacionais e internacionais, chefes de estado, lideranças da política e expoentes das áreas econômica, empresarial, cultural, esportiva e científica. Um momento para análise e reflexão(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180409010000 -0300" stop="20180409014500 -0300" channel="BAND">
+    <title lang="pt">Show Business</title>
+    <desc lang="pt">As entrevistas comandadas pelo jornalista e empresário João Doria Jr. no programa inédito de sábado, ganham nova exibição nas madrugadas de domingo para segunda(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180409014500 -0300" stop="20180409021500 -0300" channel="BAND">
+    <title lang="pt">30 Minutos</title>
+    <desc lang="pt">As reportagens especiais e seriadas, exibidas no jornais da Band, em uma única edição(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180409021500 -0300" stop="20180409023500 -0300" channel="BAND">
+    <title lang="pt">Uma Família da Pesada</title>
+    <desc lang="pt">Na fictícia cidade de Quahog, Rhode Island, EUA, vive a disfuncional família Griffin. Peter e Lois são os pais. Meg, Chris e Stewie, os filhos. E tem ainda Brian, o cão antropomórfico de estimação(n)</desc>
+    <date>1999</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180409023500 -0300" stop="20180409030000 -0300" channel="BAND">
+    <title lang="pt">Vídeos Incríveis</title>
+    <desc lang="pt">Os Vídeos Incríveis são cenas reais de situações inusitadas: perseguições policiais, flagrantes de acidentes, resgates extraordinários e fenômenos naturais(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180409030000 -0300" stop="20180409060000 -0300" channel="BAND">
+    <title lang="pt">Igreja Universal</title>
+    <desc lang="pt">Informações aos fieis(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180409060000 -0300" stop="20180409070000 -0300" channel="BAND">
+    <title lang="pt">Jornal Bandnews</title>
+    <desc lang="pt">As principais noticias da hora com a equipe do canal especializado em jornalismo, 24 horas por dia(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180409070000 -0300" stop="20180409080000 -0300" channel="BAND">
+    <title lang="pt">Café com Jornal</title>
+    <desc lang="pt">Informação descontraída, leve, dinâmica, com assuntos de interesse imediato. Com a participação de colunistas especializados nos temas que fazem parte do cotidiano. Noticia de qualidade desde cedo(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180409080000 -0300" stop="20180409083000 -0300" channel="BAND">
+    <title lang="pt">Café com Jornal - Edição Brasil</title>
+    <desc lang="pt">Muita prestação de serviço e a participação do público, interagindo com a equipe do noticioso(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180409083000 -0300" stop="20180409085000 -0300" channel="BAND">
+    <title lang="pt">Sempre Bem</title>
+    <desc lang="pt">Informações sobre saúde, bem-estar, beleza e comportamento(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Saúde</category>
+  </programme>
+  <programme start="20180409085000 -0300" stop="20180409095000 -0300" channel="BAND">
+    <title lang="pt">Cozinha do Bork</title>
+    <desc lang="pt">O tradicional programa culinário das manhãs em novo ciclo: renovado, atualizado e repleto de novas receitas. Todas testadas e aprovadas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20180409095000 -0300" stop="20180409110000 -0300" channel="BAND">
+    <title lang="pt">Os Simpsons</title>
+    <desc lang="pt">Cotidiano da família de Homer Simpson em uma sátira ácida e politicamente incorreta ao estilo de vida americano(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180409110000 -0300" stop="20180409123000 -0300" channel="BAND">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">As principais notícias do futebol e um debate diário com jornalistas e esportistas sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180409123000 -0300" stop="20180409130000 -0300" channel="BAND">
+    <title lang="pt">Jogo Aberto - Debate</title>
+    <desc lang="pt">Depois do noticiário é hora de debater as novidades. O programa reúne jornalistas e esportistas para falar sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180409130000 -0300" stop="20180409140000 -0300" channel="BAND">
+    <title lang="pt">Os Donos da Bola</title>
+    <desc lang="pt">Programa de debate sobre futebol comandado pelo craque Neto e que conta com a presença de convidados especiais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180409140000 -0300" stop="20180409150000 -0300" channel="BAND">
+    <title lang="pt">Melhor da Tarde</title>
+    <desc lang="pt">O programa feminino repleto de informação, dicas de saúde, beleza, culinária, notícias dos famosos e muita diversão para animar as suas tardes(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180409150000 -0300" stop="20180409160000 -0300" channel="BAND">
+    <title lang="pt">Melhor da Tarde</title>
+    <desc lang="pt">O programa feminino repleto de informação, dicas de saúde, beleza, culinária, notícias dos famosos e muita diversão para animar as suas tardes(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180409160000 -0300" stop="20180409185000 -0300" channel="BAND">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Sempre ao lado do povo, o programa traz os principais acontecimentos do dia com prioridade para os temas do cotidiano de cada cidadão. O foco é a segurança, a saúde, o trabalho, a mobilidade, o comportamento(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180409185000 -0300" stop="20180409192000 -0300" channel="BAND">
+    <title lang="pt">Brasil Urgente SP</title>
+    <desc lang="pt">Sempre ao lado do povo, o programa traz os principais acontecimentos do dia com prioridade para os temas do cotidiano de cada cidadão. O foco é a segurança, a saúde, o trabalho, a mobilidade, o comportamento(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180409192000 -0300" stop="20180409202500 -0300" channel="BAND">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Os principais fatos do dia no Brasil e no Mundo relatados com imparcialidade e profundidade, por uma equipe de jornalistas a serviço da verdade(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180409202500 -0300" stop="20180409211500 -0300" channel="BAND">
+    <title lang="pt">Amor Proibido E91</title>
+    <desc lang="pt">No caminho da fazenda de Adnan, Bihter perde o controle e bate o carro. A polícia descobre que Bihter estava embriagada no momento do acidente e avisa que ela poderá ser levada sob custodia(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Turquia</country>
+  </programme>
+  <programme start="20180409211500 -0300" stop="20180409220300 -0300" channel="BAND">
+    <title lang="pt">Igreja Internacional da Graça de Deus</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180409220300 -0300" stop="20180409220500 -0300" channel="BAND">
+    <title lang="pt">Agenda dos Pastores</title>
+    <desc lang="pt">Programa Religioso(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180409220500 -0300" stop="20180409223000 -0300" channel="BAND">
+    <title lang="pt">Vídeonews</title>
+    <desc lang="pt">Notícias e curiosidades unindo informação com diversão, com destaque para o mundo das celebridades(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180409223000 -0300" stop="20180409233000 -0300" channel="BAND">
+    <title lang="pt">Planeta Selvagem</title>
+    <desc lang="pt">A produção da BBC faz um retrato das paisagens mais perigosas do nosso mundo, mostrando viagens extraordinárias pelas regiões mais selvagens do nosso planeta(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180409233000 -0300" stop="20180410002500 -0300" channel="BAND">
+    <title lang="pt">Viagem ao Redor do Mundo</title>
+    <desc lang="pt">Unindo informação e entretenimento, o programa leva os telespectadores para os lugares mais incríveis do planeta de maneira descontraída, com dicas hospedagens, passeios e gastronomia. Com o expert Rodrigo Ruas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180410002500 -0300" stop="20180410011500 -0300" channel="BAND">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Um resumo de tudo que aconteceu de relevante durante o dia, no Brasil e no Mundo. Analises, entrevistas e matérias especiais aprofundam os temas mais importantes(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180410011500 -0300" stop="20180410012000 -0300" channel="BAND">
+    <title lang="pt">Que Fim Levou? - Boletim</title>
+    <desc lang="pt">A memória esportiva brasileira sendo resgatada(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180410012000 -0300" stop="20180410023500 -0300" channel="BAND">
+    <title lang="pt">Cine+ No Mar Com Os Golfinhos</title>
+    <desc lang="pt">Alyssa é uma jovem problemática desde a morte de sua mãe. Porém, quando vai morar com seu pai, um biólogo marinho que trabalha nas Bahamas, ela consegue desenvolver uma forte ligação com os golfinhos(n)</desc>
+    <date>2006</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180410023500 -0300" stop="20180410030000 -0300" channel="BAND">
+    <title lang="pt">Vídeos Incríveis</title>
+    <desc lang="pt">Os Vídeos Incríveis são cenas reais de situações inusitadas: perseguições policiais, flagrantes de acidentes, resgates extraordinários e fenômenos naturais(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180410030000 -0300" stop="20180410060000 -0300" channel="BAND">
+    <title lang="pt">Igreja Universal</title>
+    <desc lang="pt">Informações aos fieis(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180410060000 -0300" stop="20180410070000 -0300" channel="BAND">
+    <title lang="pt">Jornal Bandnews</title>
+    <desc lang="pt">As principais noticias da hora com a equipe do canal especializado em jornalismo, 24 horas por dia(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180410070000 -0300" stop="20180410080000 -0300" channel="BAND">
+    <title lang="pt">Café com Jornal</title>
+    <desc lang="pt">Informação descontraída, leve, dinâmica, com assuntos de interesse imediato. Com a participação de colunistas especializados nos temas que fazem parte do cotidiano. Noticia de qualidade desde cedo(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180410080000 -0300" stop="20180410083000 -0300" channel="BAND">
+    <title lang="pt">Café com Jornal - Edição Brasil</title>
+    <desc lang="pt">Muita prestação de serviço e a participação do público, interagindo com a equipe do noticioso(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180410083000 -0300" stop="20180410085000 -0300" channel="BAND">
+    <title lang="pt">Sempre Bem</title>
+    <desc lang="pt">Informações sobre saúde, bem-estar, beleza e comportamento(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Saúde</category>
+  </programme>
+  <programme start="20180410085000 -0300" stop="20180410095000 -0300" channel="BAND">
+    <title lang="pt">Cozinha do Bork</title>
+    <desc lang="pt">O tradicional programa culinário das manhãs em novo ciclo: renovado, atualizado e repleto de novas receitas. Todas testadas e aprovadas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20180410095000 -0300" stop="20180410110000 -0300" channel="BAND">
+    <title lang="pt">Os Simpsons</title>
+    <desc lang="pt">Cotidiano da família de Homer Simpson em uma sátira ácida e politicamente incorreta ao estilo de vida americano(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180410110000 -0300" stop="20180410123000 -0300" channel="BAND">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">As principais notícias do futebol e um debate diário com jornalistas e esportistas sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180410123000 -0300" stop="20180410130000 -0300" channel="BAND">
+    <title lang="pt">Jogo Aberto - Debate</title>
+    <desc lang="pt">Depois do noticiário é hora de debater as novidades. O programa reúne jornalistas e esportistas para falar sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180410130000 -0300" stop="20180410140000 -0300" channel="BAND">
+    <title lang="pt">Os Donos da Bola</title>
+    <desc lang="pt">Programa de debate sobre futebol comandado pelo craque Neto e que conta com a presença de convidados especiais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180410140000 -0300" stop="20180410150000 -0300" channel="BAND">
+    <title lang="pt">Melhor da Tarde</title>
+    <desc lang="pt">O programa feminino repleto de informação, dicas de saúde, beleza, culinária, notícias dos famosos e muita diversão para animar as suas tardes(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180410150000 -0300" stop="20180410151500 -0300" channel="BAND">
+    <title lang="pt">Melhor da Tarde</title>
+    <desc lang="pt">O programa feminino repleto de informação, dicas de saúde, beleza, culinária, notícias dos famosos e muita diversão para animar as suas tardes(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180410151500 -0300" stop="20180410173500 -0300" channel="BAND">
+    <title lang="pt">Liga dos Campeões da UEFA: Juventus x Real Madrid - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180410173500 -0300" stop="20180410185000 -0300" channel="BAND">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Sempre ao lado do povo, o programa traz os principais acontecimentos do dia com prioridade para os temas do cotidiano de cada cidadão. O foco é a segurança, a saúde, o trabalho, a mobilidade, o comportamento(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180410185000 -0300" stop="20180410192000 -0300" channel="BAND">
+    <title lang="pt">Brasil Urgente SP</title>
+    <desc lang="pt">Sempre ao lado do povo, o programa traz os principais acontecimentos do dia com prioridade para os temas do cotidiano de cada cidadão. O foco é a segurança, a saúde, o trabalho, a mobilidade, o comportamento(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180410192000 -0300" stop="20180410202500 -0300" channel="BAND">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Os principais fatos do dia no Brasil e no Mundo relatados com imparcialidade e profundidade, por uma equipe de jornalistas a serviço da verdade(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180410202500 -0300" stop="20180410211500 -0300" channel="BAND">
+    <title lang="pt">Amor Proibido E92</title>
+    <desc lang="pt">A vítima do acidente que Bihter causou sai do estado crítico e ela não será presa. Behlul, Firdevs e Nilay aparecem para visitar Bihter no hospital. Firdevs flagra Behlul acariciando a mão de Bihter(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Turquia</country>
+  </programme>
+  <programme start="20180410211500 -0300" stop="20180410220300 -0300" channel="BAND">
+    <title lang="pt">Igreja Internacional da Graça de Deus</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180410220300 -0300" stop="20180410220500 -0300" channel="BAND">
+    <title lang="pt">Agenda dos Pastores</title>
+    <desc lang="pt">Programa Religioso(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180410220500 -0300" stop="20180410223000 -0300" channel="BAND">
+    <title lang="pt">Vídeonews</title>
+    <desc lang="pt">Notícias e curiosidades unindo informação com diversão, com destaque para o mundo das celebridades(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180410223000 -0300" stop="20180411003000 -0300" channel="BAND">
+    <title lang="pt">Masterchef</title>
+    <desc lang="pt">Ana Paula Padrão apresenta o maior reality de culinária do mundo, que revela os novos talentos da cozinha brasileira(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180411003000 -0300" stop="20180411011500 -0300" channel="BAND">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Um resumo de tudo que aconteceu de relevante durante o dia, no Brasil e no Mundo. Analises, entrevistas e matérias especiais aprofundam os temas mais importantes(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180411011500 -0300" stop="20180411012000 -0300" channel="BAND">
+    <title lang="pt">Que Fim Levou? - Boletim</title>
+    <desc lang="pt">A memória esportiva brasileira sendo resgatada(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180411012000 -0300" stop="20180411015000 -0300" channel="BAND">
+    <title lang="pt">O Melhor da Liga</title>
+    <desc lang="pt">Nos dias de jogos da UEFA durante à tarde, a Band exibe no fim de noite um programa resumindo a partida, com tudo que aconteceu de melhor, mais emocionante e mais bonito em campo(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180411015000 -0300" stop="20180411022000 -0300" channel="BAND">
+    <title lang="pt">Liga dos Campeões da UEFA: Juventus x Real Madrid - Compacto</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180411022000 -0300" stop="20180411024500 -0300" channel="BAND">
+    <title lang="pt">Os Simpsons</title>
+    <desc lang="pt">Cotidiano da família de Homer Simpson em uma sátira ácida e politicamente incorreta ao estilo de vida americano(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180411024500 -0300" stop="20180411030000 -0300" channel="BAND">
+    <title lang="pt">Vídeos Incríveis</title>
+    <desc lang="pt">Os Vídeos Incríveis são cenas reais de situações inusitadas: perseguições policiais, flagrantes de acidentes, resgates extraordinários e fenômenos naturais(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180411030000 -0300" stop="20180411060000 -0300" channel="BAND">
+    <title lang="pt">Igreja Universal</title>
+    <desc lang="pt">Informações aos fieis(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180411060000 -0300" stop="20180411070000 -0300" channel="BAND">
+    <title lang="pt">Jornal Bandnews</title>
+    <desc lang="pt">As principais noticias da hora com a equipe do canal especializado em jornalismo, 24 horas por dia(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180411070000 -0300" stop="20180411080000 -0300" channel="BAND">
+    <title lang="pt">Café com Jornal</title>
+    <desc lang="pt">Informação descontraída, leve, dinâmica, com assuntos de interesse imediato. Com a participação de colunistas especializados nos temas que fazem parte do cotidiano. Noticia de qualidade desde cedo(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180411080000 -0300" stop="20180411083000 -0300" channel="BAND">
+    <title lang="pt">Café com Jornal - Edição Brasil</title>
+    <desc lang="pt">Muita prestação de serviço e a participação do público, interagindo com a equipe do noticioso(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180411083000 -0300" stop="20180411085000 -0300" channel="BAND">
+    <title lang="pt">Sempre Bem</title>
+    <desc lang="pt">Informações sobre saúde, bem-estar, beleza e comportamento(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Saúde</category>
+  </programme>
+  <programme start="20180411085000 -0300" stop="20180411095000 -0300" channel="BAND">
+    <title lang="pt">Cozinha do Bork</title>
+    <desc lang="pt">O tradicional programa culinário das manhãs em novo ciclo: renovado, atualizado e repleto de novas receitas. Todas testadas e aprovadas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20180411095000 -0300" stop="20180411110000 -0300" channel="BAND">
+    <title lang="pt">Os Simpsons</title>
+    <desc lang="pt">Cotidiano da família de Homer Simpson em uma sátira ácida e politicamente incorreta ao estilo de vida americano(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180411110000 -0300" stop="20180411123000 -0300" channel="BAND">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">As principais notícias do futebol e um debate diário com jornalistas e esportistas sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180411123000 -0300" stop="20180411130000 -0300" channel="BAND">
+    <title lang="pt">Jogo Aberto - Debate</title>
+    <desc lang="pt">Depois do noticiário é hora de debater as novidades. O programa reúne jornalistas e esportistas para falar sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180411130000 -0300" stop="20180411140000 -0300" channel="BAND">
+    <title lang="pt">Os Donos da Bola</title>
+    <desc lang="pt">Programa de debate sobre futebol comandado pelo craque Neto e que conta com a presença de convidados especiais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180411140000 -0300" stop="20180411150000 -0300" channel="BAND">
+    <title lang="pt">Melhor da Tarde</title>
+    <desc lang="pt">O programa feminino repleto de informação, dicas de saúde, beleza, culinária, notícias dos famosos e muita diversão para animar as suas tardes(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180411150000 -0300" stop="20180411151500 -0300" channel="BAND">
+    <title lang="pt">Melhor da Tarde</title>
+    <desc lang="pt">O programa feminino repleto de informação, dicas de saúde, beleza, culinária, notícias dos famosos e muita diversão para animar as suas tardes(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180411151500 -0300" stop="20180411173500 -0300" channel="BAND">
+    <title lang="pt">Liga dos Campeões da UEFA: Barcelona x Roma - Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180411173500 -0300" stop="20180411185000 -0300" channel="BAND">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Sempre ao lado do povo, o programa traz os principais acontecimentos do dia com prioridade para os temas do cotidiano de cada cidadão. O foco é a segurança, a saúde, o trabalho, a mobilidade, o comportamento(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180411185000 -0300" stop="20180411192000 -0300" channel="BAND">
+    <title lang="pt">Brasil Urgente SP</title>
+    <desc lang="pt">Sempre ao lado do povo, o programa traz os principais acontecimentos do dia com prioridade para os temas do cotidiano de cada cidadão. O foco é a segurança, a saúde, o trabalho, a mobilidade, o comportamento(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180411192000 -0300" stop="20180411202500 -0300" channel="BAND">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Os principais fatos do dia no Brasil e no Mundo relatados com imparcialidade e profundidade, por uma equipe de jornalistas a serviço da verdade(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180411202500 -0300" stop="20180411211500 -0300" channel="BAND">
+    <title lang="pt">Amor Proibido E93</title>
+    <desc lang="pt">Bihter faz as pazes com Adnan para irritar Behlul e todos jantam para comemorar o aniversário de casamento deles. Adnan e Bihter decidem dormir separados e Behlul aproveita para invadir o quarto deles para conversar com Bihter(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Turquia</country>
+  </programme>
+  <programme start="20180411211500 -0300" stop="20180411220300 -0300" channel="BAND">
+    <title lang="pt">Igreja Internacional da Graça de Deus</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180411220300 -0300" stop="20180411220500 -0300" channel="BAND">
+    <title lang="pt">Agenda dos Pastores</title>
+    <desc lang="pt">Programa Religioso(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20180411220500 -0300" stop="20180411223000 -0300" channel="BAND">
+    <title lang="pt">Vídeonews</title>
+    <desc lang="pt">Notícias e curiosidades unindo informação com diversão, com destaque para o mundo das celebridades(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180411223000 -0300" stop="20180412002500 -0300" channel="BAND">
+    <title lang="pt">Quarta No Cinema: Férias Frustradas de Verão</title>
+    <desc lang="pt">O ano é 1987. James Brennan acaba de se formar na faculdade e sonha em passar as férias de verão na Europa. Entretanto, a difícil situação financeira de seus pais impede que ele realize seu desejo(n)</desc>
+    <date>2008</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180406011500 -0300" stop="20180406020000 -0300" channel="Record ES">
+    <title lang="pt">Fala que eu te Escuto</title>
+    <desc lang="pt">O programa é apresentado ao vivo, no início da madrugada. Diariamente, temas da atualidade são debatidos por bispos e pastores da Igreja Universal do Reino de Deus (IURD)(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180406020000 -0300" stop="20180406060000 -0300" channel="Record ES">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180406060000 -0300" stop="20180406063000 -0300" channel="Record ES">
+    <title lang="pt">Balanço Geral Manhã SP</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180406063000 -0300" stop="20180406070000 -0300" channel="Record ES">
+    <title lang="pt">Balanço Geral Manhã</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180406070000 -0300" stop="20180406083000 -0300" channel="Record ES">
+    <title lang="pt">SP no Ar</title>
+    <desc lang="pt">O jornal apresenta as primeiras notícias do dia, o trânsito da cidade, os destaques da madrugada, adiantando o que será destaque no decorrer do dia(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180406083000 -0300" stop="20180406100000 -0300" channel="Record ES">
+    <title lang="pt">Fala Brasil</title>
+    <desc lang="pt">O telejornal mostra as notícias da cidade, política, saúde, economia, polícia, prestação de serviços e os destaques internacionais.  Além disso, há um espaço dedicado ao esporte(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180406100000 -0300" stop="20180406120000 -0300" channel="Record ES">
+    <title lang="pt">Hoje em Dia</title>
+    <desc lang="pt">Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180406120000 -0300" stop="20180406150000 -0300" channel="Record ES">
+    <title lang="pt">Balanço Geral</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180406150000 -0300" stop="20180406154500 -0300" channel="Record ES">
+    <title lang="pt">Luz do Sol E60</title>
+    <desc lang="pt">Eliana diz a Vicente que a mãe de Drica não pode ver Agenor. Vicente a tranqüiliza lembrando que o pai deve estar aprontando com Mascote(n)</desc>
+    <date>2007</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180406154500 -0300" stop="20180406164500 -0300" channel="Record ES">
+    <title lang="pt">Bicho do Mato E160</title>
+    <desc lang="pt">Cecília e Juba ouvem tiros e percebem que estão sendo perseguidos(n)</desc>
+    <date>2006</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180406164500 -0300" stop="20180406180000 -0300" channel="Record ES">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180406180000 -0300" stop="20180406185000 -0300" channel="Record ES">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180406185000 -0300" stop="20180406194500 -0300" channel="Record ES">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180406194500 -0300" stop="20180406204500 -0300" channel="Record ES">
+    <title lang="pt">Os Dez Mandamentos E184</title>
+    <desc lang="pt">Ramsés tenta mudar o pensamento de Nefertari, mas é provocado por ela e acaba concordando com a ideia de matar Moisés(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180406204500 -0300" stop="20180406214500 -0300" channel="Record ES">
+    <title lang="pt">Apocalipse E99</title>
+    <desc lang="pt">Zoe se assusta com a presença de Benjamin e tenta fugir. Ele corre atrás dela e diz saber toda a verdade sobre Ricardo(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180406214500 -0300" stop="20180406224500 -0300" channel="Record ES">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180406224500 -0300" stop="20180407011500 -0300" channel="Record ES">
+    <title lang="pt">Super Tela: Contrabando</title>
+    <desc lang="pt">O vencedor do Oscar, Mark Wahlberg, leva-nos a conhecer o perigoso mundo do contrabando. Neste thriller, representa um guarda que precisa envolver-se na máfia da falsificação de dinheiro para manter sua família com vida(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180407011500 -0300" stop="20180407020000 -0300" channel="Record ES">
+    <title lang="pt">Fala que eu te Escuto</title>
+    <desc lang="pt">O programa é apresentado ao vivo, no início da madrugada. Diariamente, temas da atualidade são debatidos por bispos e pastores da Igreja Universal do Reino de Deus (IURD)(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180407020000 -0300" stop="20180407063000 -0300" channel="Record ES">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180407063000 -0300" stop="20180407070000 -0300" channel="Record ES">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180407070000 -0300" stop="20180407101500 -0300" channel="Record ES">
+    <title lang="pt">Fala Brasil Especial</title>
+    <desc lang="pt">Um jornal moderno e dinâmico que tem a missão de apresentar as principais notícias com um avanço em comparação às manchetes dos principais jornais e antecipar os fatos que vão mobilizar a atenção dos brasileiros(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180407101500 -0300" stop="20180407120000 -0300" channel="Record ES">
+    <title lang="pt">Esporte Fantástico</title>
+    <desc lang="pt">O Esporte Fantástico exibe matérias especiais sobre diversas modalidades esportivas, entrevistas exclusivas com personalidades do esporte no Brasil e no exterior(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180407120000 -0300" stop="20180407130000 -0300" channel="Record ES">
+    <title lang="pt">The Love School - A Escola do Amor</title>
+    <desc lang="pt">A chegada dos "professores" à telinha traz conselhos eficazes, para ajudar solteiros e comprometidos a alcançarem ou manterem o relacionamento feliz e driblarem as adversidades do cotidiano(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Comportamento</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180407130000 -0300" stop="20180407150000 -0300" channel="Record ES">
+    <title lang="pt">Balanço Geral Especial</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180407150000 -0300" stop="20180407164500 -0300" channel="Record ES">
+    <title lang="pt">Cine Aventura: Um Maluco no Golfe</title>
+    <desc lang="pt">Um jogador de hockey rejeitado pelo time coloca suas habilidades em prática num campo de golfe para salvar a casa de sua avó(n)</desc>
+    <date>1996</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180407164500 -0300" stop="20180407194500 -0300" channel="Record ES">
+    <title lang="pt">Cidade Alerta Especial</title>
+    <desc lang="pt">Apresentado atualmente por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180407194500 -0300" stop="20180407203000 -0300" channel="Record ES">
+    <title lang="pt">Jornal da Record Especial</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180407203000 -0300" stop="20180407221500 -0300" channel="Record ES">
+    <title lang="pt">José do Egito - S1</title>
+    <desc lang="pt">A história de José conta a saga de um homem de Deus, íntegro e indulgente, que após ser vendido como escravo pelos irmãos é levado para o Egito, onde é injustiçado, caluniado, preso e humilhado(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180407221500 -0300" stop="20180408001500 -0300" channel="Record ES">
+    <title lang="pt">Programa da Sabrina</title>
+    <desc lang="pt">As noites de sábado têm um motivo a mais para você não desgrudar os olhos da tela da Rede Record: o Programa da Sabrina(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Talk Show</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180408001500 -0300" stop="20180408011500 -0300" channel="Record ES">
+    <title lang="pt">Chicago P.D. - S2E8</title>
+    <desc lang="pt">Um rico vendedor de diamantes é morto sob a vigia de Antonio. Halstead e Lindsay trabalham no caso, mas precisam se disfarçar e seguir para uma localização desconfortável(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180408011500 -0300" stop="20180408020000 -0300" channel="Record ES">
+    <title lang="pt">Fala que eu te Escuto</title>
+    <desc lang="pt">O programa é apresentado ao vivo, no início da madrugada. Diariamente, temas da atualidade são debatidos por bispos e pastores da Igreja Universal do Reino de Deus (IURD)(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180408020000 -0300" stop="20180408060000 -0300" channel="Record ES">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180408060000 -0300" stop="20180408070000 -0300" channel="Record ES">
+    <title lang="pt">Santo Culto em seu Lar</title>
+    <desc lang="pt">Pregações abordando um tema específico, discutindo sempre em base de texto bíblico(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180408070000 -0300" stop="20180408080000 -0300" channel="Record ES">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180408080000 -0300" stop="20180408090000 -0300" channel="Record ES">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180408090000 -0300" stop="20180408110000 -0300" channel="Record ES">
+    <title lang="pt">Record Kids</title>
+    <desc lang="pt">Para animar a manhã de seu fim de semana, muita diversão para toda a família com os desenhos da "Record Kids"(n)</desc>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180408110000 -0300" stop="20180408130000 -0300" channel="Record ES">
+    <title lang="pt">Show de Humor</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20180408130000 -0300" stop="20180408153000 -0300" channel="Record ES">
+    <title lang="pt">Domingo Show</title>
+    <desc lang="pt">Domingo Show é uma mistura de jornalismo e entretenimento. Você pode acompanhar as principais notícias do Brasil, além de conhecer histórias emocionantes de superação e personagens curiosos(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Talk Show</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180408153000 -0300" stop="20180408193000 -0300" channel="Record ES">
+    <title lang="pt">Hora do Faro</title>
+    <desc lang="pt">Faro recebe convidados que superaram muitas dificuldades para dar carinho e atenção àqueles que não tinham e, ainda, um casal que se adora, mas precisa superar algumas barreiras para ficar junto(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Talk Show</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180408193000 -0300" stop="20180408233000 -0300" channel="Record ES">
+    <title lang="pt">Domingo Espetacular</title>
+    <desc lang="pt">Em formato de revista eletrônica semanal, o programa apresenta um panorama geral dos principais acontecimentos que marcaram a semana, além de reportagens exclusivas(n)</desc>
+    <date>2004</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180408233000 -0300" stop="20180409011500 -0300" channel="Record ES">
+    <title lang="pt">A Nova Super Máquina</title>
+    <desc lang="pt">Esta é a versão moderna do clássico dos anos 80 "A Super Máquina". O super carro vem equipado com inteligência artificial, capaz de hackear qualquer sistema. No episódio de estreia da série, Mike e KITT precisam entregar uma encomenda especial(n)</desc>
+    <date>2008</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180409011500 -0300" stop="20180409060000 -0300" channel="Record ES">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180409060000 -0300" stop="20180409063000 -0300" channel="Record ES">
+    <title lang="pt">Balanço Geral Manhã SP</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180409063000 -0300" stop="20180409070000 -0300" channel="Record ES">
+    <title lang="pt">Balanço Geral Manhã</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180409070000 -0300" stop="20180409083000 -0300" channel="Record ES">
+    <title lang="pt">SP no Ar</title>
+    <desc lang="pt">O jornal apresenta as primeiras notícias do dia, o trânsito da cidade, os destaques da madrugada, adiantando o que será destaque no decorrer do dia(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180409083000 -0300" stop="20180409100000 -0300" channel="Record ES">
+    <title lang="pt">Fala Brasil</title>
+    <desc lang="pt">O telejornal mostra as notícias da cidade, política, saúde, economia, polícia, prestação de serviços e os destaques internacionais.  Além disso, há um espaço dedicado ao esporte(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180409100000 -0300" stop="20180409120000 -0300" channel="Record ES">
+    <title lang="pt">Hoje em Dia</title>
+    <desc lang="pt">Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180409120000 -0300" stop="20180409150000 -0300" channel="Record ES">
+    <title lang="pt">Balanço Geral</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180409150000 -0300" stop="20180409154500 -0300" channel="Record ES">
+    <title lang="pt">Luz do Sol</title>
+    <date>2007</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180409154500 -0300" stop="20180409164500 -0300" channel="Record ES">
+    <title lang="pt">Bicho do Mato</title>
+    <desc lang="pt">Juba, um rapaz que mora em uma fazenda no Pantanal em contato com a natureza, mas que vê sua vida virar de cabeça para baixo quando assassinam seu pai misteriosamente e ele se vê obrigado a ir para a cidade grande em busca de respostas(n)</desc>
+    <date>2006</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180409164500 -0300" stop="20180409180000 -0300" channel="Record ES">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180409180000 -0300" stop="20180409185000 -0300" channel="Record ES">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180409185000 -0300" stop="20180409194500 -0300" channel="Record ES">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180409194500 -0300" stop="20180409204500 -0300" channel="Record ES">
+    <title lang="pt">Os Dez Mandamentos</title>
+    <desc lang="pt">Os Dez Mandamentos, reconta uma das mais famosas passagens da Bíblia: a saga de Moisés, desde seu nascimento até a chegada de seu povo à terra prometida, passando pela fuga do Egito através do Mar Vermelho(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180409204500 -0300" stop="20180409214500 -0300" channel="Record ES">
+    <title lang="pt">Apocalipse</title>
+    <desc lang="pt">Uma emocionante história que mistura amor, mistério e redenção ao retratar um dos enredos mais polêmicos da Bíblia: o fim dos tempos(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180409214500 -0300" stop="20180409224500 -0300" channel="Record ES">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180409224500 -0300" stop="20180410001500 -0300" channel="Record ES">
+    <title lang="pt">Repórter Record Investigação</title>
+    <desc lang="pt">Denúncias exclusivas, temas polêmicos e grandes reportagens. O Repórter Record Investigação tem a missão de desvendar temas de interesse público(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180410001500 -0300" stop="20180410011500 -0300" channel="Record ES">
+    <title lang="pt">Programa do Porchat</title>
+    <desc lang="pt">O Programa do Porchat vai trazer entrevistas divertidas, brincadeiras irreverentes e atrações cheias de humor. Em um talk show com todos os elementos de que o povo gosta, Porchat entretém o telespectador com um monólogo inicial(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Talk Show</category>
+  </programme>
+  <programme start="20180410011500 -0300" stop="20180410020000 -0300" channel="Record ES">
+    <title lang="pt">Fala que eu te Escuto</title>
+    <desc lang="pt">O programa é apresentado ao vivo, no início da madrugada. Diariamente, temas da atualidade são debatidos por bispos e pastores da Igreja Universal do Reino de Deus (IURD)(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180410020000 -0300" stop="20180410060000 -0300" channel="Record ES">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180410060000 -0300" stop="20180410063000 -0300" channel="Record ES">
+    <title lang="pt">Balanço Geral Manhã SP</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180410063000 -0300" stop="20180410070000 -0300" channel="Record ES">
+    <title lang="pt">Balanço Geral Manhã</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180410070000 -0300" stop="20180410083000 -0300" channel="Record ES">
+    <title lang="pt">SP no Ar</title>
+    <desc lang="pt">O jornal apresenta as primeiras notícias do dia, o trânsito da cidade, os destaques da madrugada, adiantando o que será destaque no decorrer do dia(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180410083000 -0300" stop="20180410100000 -0300" channel="Record ES">
+    <title lang="pt">Fala Brasil</title>
+    <desc lang="pt">O telejornal mostra as notícias da cidade, política, saúde, economia, polícia, prestação de serviços e os destaques internacionais.  Além disso, há um espaço dedicado ao esporte(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180410100000 -0300" stop="20180410120000 -0300" channel="Record ES">
+    <title lang="pt">Hoje em Dia</title>
+    <desc lang="pt">Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180410120000 -0300" stop="20180410150000 -0300" channel="Record ES">
+    <title lang="pt">Balanço Geral</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180410150000 -0300" stop="20180410154500 -0300" channel="Record ES">
+    <title lang="pt">Luz do Sol</title>
+    <date>2007</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180410154500 -0300" stop="20180410164500 -0300" channel="Record ES">
+    <title lang="pt">Bicho do Mato</title>
+    <desc lang="pt">Juba, um rapaz que mora em uma fazenda no Pantanal em contato com a natureza, mas que vê sua vida virar de cabeça para baixo quando assassinam seu pai misteriosamente e ele se vê obrigado a ir para a cidade grande em busca de respostas(n)</desc>
+    <date>2006</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180410164500 -0300" stop="20180410180000 -0300" channel="Record ES">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180410180000 -0300" stop="20180410185000 -0300" channel="Record ES">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180410185000 -0300" stop="20180410194500 -0300" channel="Record ES">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180410194500 -0300" stop="20180410204500 -0300" channel="Record ES">
+    <title lang="pt">Os Dez Mandamentos</title>
+    <desc lang="pt">Os Dez Mandamentos, reconta uma das mais famosas passagens da Bíblia: a saga de Moisés, desde seu nascimento até a chegada de seu povo à terra prometida, passando pela fuga do Egito através do Mar Vermelho(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180410204500 -0300" stop="20180410214500 -0300" channel="Record ES">
+    <title lang="pt">Apocalipse</title>
+    <desc lang="pt">Uma emocionante história que mistura amor, mistério e redenção ao retratar um dos enredos mais polêmicos da Bíblia: o fim dos tempos(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180410214500 -0300" stop="20180410223000 -0300" channel="Record ES">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180410223000 -0300" stop="20180411001500 -0300" channel="Record ES">
+    <title lang="pt">Cine Record Especial: O Homem do Tai Chi</title>
+    <desc lang="pt">Um jovem praticante de artes marciais deixa de lado sua pacata vida em Pequim para disputar o campeonato Wulin Wang. O que ele não esperava era ter que lidar com o submundo da cidade para proteger o legado de seu local de nascimento(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>China/Hong Kong/EUA</country>
+  </programme>
+  <programme start="20180411001500 -0300" stop="20180411011500 -0300" channel="Record ES">
+    <title lang="pt">Programa do Porchat</title>
+    <desc lang="pt">O Programa do Porchat vai trazer entrevistas divertidas, brincadeiras irreverentes e atrações cheias de humor. Em um talk show com todos os elementos de que o povo gosta, Porchat entretém o telespectador com um monólogo inicial(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Talk Show</category>
+  </programme>
+  <programme start="20180411011500 -0300" stop="20180411020000 -0300" channel="Record ES">
+    <title lang="pt">Fala que eu te Escuto</title>
+    <desc lang="pt">O programa é apresentado ao vivo, no início da madrugada. Diariamente, temas da atualidade são debatidos por bispos e pastores da Igreja Universal do Reino de Deus (IURD)(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180411020000 -0300" stop="20180411060000 -0300" channel="Record ES">
+    <title lang="pt">Programação IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180411060000 -0300" stop="20180411063000 -0300" channel="Record ES">
+    <title lang="pt">Balanço Geral Manhã SP</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180411063000 -0300" stop="20180411070000 -0300" channel="Record ES">
+    <title lang="pt">Balanço Geral Manhã</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180411070000 -0300" stop="20180411083000 -0300" channel="Record ES">
+    <title lang="pt">SP no Ar</title>
+    <desc lang="pt">O jornal apresenta as primeiras notícias do dia, o trânsito da cidade, os destaques da madrugada, adiantando o que será destaque no decorrer do dia(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180411083000 -0300" stop="20180411100000 -0300" channel="Record ES">
+    <title lang="pt">Fala Brasil</title>
+    <desc lang="pt">O telejornal mostra as notícias da cidade, política, saúde, economia, polícia, prestação de serviços e os destaques internacionais.  Além disso, há um espaço dedicado ao esporte(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180411100000 -0300" stop="20180411120000 -0300" channel="Record ES">
+    <title lang="pt">Hoje em Dia</title>
+    <desc lang="pt">Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180411120000 -0300" stop="20180411150000 -0300" channel="Record ES">
+    <title lang="pt">Balanço Geral</title>
+    <desc lang="pt">O programa, que transita entre o jornalismo e o entretenimento, mostra reportagens exclusivas, denúncias, prestação de serviço e assuntos que mexem com o dia a dia da comunidade - como problemas nos bairros, segurança e saúde pública(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180411150000 -0300" stop="20180411154500 -0300" channel="Record ES">
+    <title lang="pt">Luz do Sol</title>
+    <date>2007</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180411154500 -0300" stop="20180411164500 -0300" channel="Record ES">
+    <title lang="pt">Bicho do Mato</title>
+    <desc lang="pt">Juba, um rapaz que mora em uma fazenda no Pantanal em contato com a natureza, mas que vê sua vida virar de cabeça para baixo quando assassinam seu pai misteriosamente e ele se vê obrigado a ir para a cidade grande em busca de respostas(n)</desc>
+    <date>2006</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180411164500 -0300" stop="20180411180000 -0300" channel="Record ES">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180411180000 -0300" stop="20180411185000 -0300" channel="Record ES">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180411185000 -0300" stop="20180411194500 -0300" channel="Record ES">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180411194500 -0300" stop="20180411204500 -0300" channel="Record ES">
+    <title lang="pt">Os Dez Mandamentos</title>
+    <desc lang="pt">Os Dez Mandamentos, reconta uma das mais famosas passagens da Bíblia: a saga de Moisés, desde seu nascimento até a chegada de seu povo à terra prometida, passando pela fuga do Egito através do Mar Vermelho(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180411204500 -0300" stop="20180411214500 -0300" channel="Record ES">
+    <title lang="pt">Apocalipse</title>
+    <desc lang="pt">Uma emocionante história que mistura amor, mistério e redenção ao retratar um dos enredos mais polêmicos da Bíblia: o fim dos tempos(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180411214500 -0300" stop="20180411223000 -0300" channel="Record ES">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180411223000 -0300" stop="20180412001500 -0300" channel="Record ES">
+    <title lang="pt">Dancing Brasil - S3</title>
+    <desc lang="pt">O reality de dança que é sucesso no mundo inteiro. Junta celebridades com dançarinos profissionais numa intensa competição de dança. Com apresentação e performances de Xuxa Meneghel(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Reality Show</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180406003000 -0300" stop="20180406013000 -0300" channel="SBT">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <desc lang="pt">O programa traz muitos entrevistados interessantes e alto índice de piadas por minuto, abordando os fatos mais e menos relevantes do dia(n)</desc>
+    <credits>
+      <director>João Mesquita</director>
+      <actor>Léo Lins</actor>
+      <actor>Murilo Couto</actor>
+      <actor>Juliana Oliveira</actor>
+      <actor>Ultraje a Rigor</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180406013000 -0300" stop="20180406060000 -0300" channel="SBT">
+    <title lang="pt">SBT Notícias</title>
+    <desc lang="pt">SBT Notícias é um telejornal noturno brasileiro, conta com a apresentação de Cassius Zeilmann e João Fernandes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180406060000 -0300" stop="20180406083000 -0300" channel="SBT">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt">Um formato original da emissora americana Univision, o jornal abordará as principais pautas do Brasil e do mundo(n)</desc>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180406083000 -0300" stop="20180406103000 -0300" channel="SBT">
+    <title lang="pt">Mundo Disney</title>
+    <desc lang="pt">O SBT exibe o bloco de programação Mundo Disney, com séries e desenhos animados dos canais Disney Junior e Disney Channel, além de filmes e curtas metragens da Disney(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180406103000 -0300" stop="20180406150000 -0300" channel="SBT">
+    <title lang="pt">Bom Dia &amp; Cia</title>
+    <desc lang="pt">De segunda a sexta, as manhãs do SBT ficam muito mais divertidas com o Bom Diau0026 Cia, um programa que traz os melhores desenhos da televisão brasileira e muitas brincadeiras com o telespectador(n)</desc>
+    <credits>
+      <director>Silvia Abravanel</director>
+      <actor>Ana Julia</actor>
+      <actor>Matheus Ueta</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180406150000 -0300" stop="20180406160000 -0300" channel="SBT">
+    <title lang="pt">Fofocalizando</title>
+    <desc lang="pt">Programa de variedades apresentado por Mamma Bruschetta, Leão Lobo e o Homem do Saco(n)</desc>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180406160000 -0300" stop="20180406170000 -0300" channel="SBT">
+    <title lang="pt">Casos de Família</title>
+    <desc lang="pt">Christina Rocha retrata os mais variados problemas e dramas do cotidiano de pessoas comuns, e mostra opções de como solucioná-los com ajuda de advogados e psicólogos(n)</desc>
+    <credits>
+      <director>Rafael Bello</director>
+      <director>Melissa Ribeiro</director>
+      <director>Raul Garin</director>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180406170000 -0300" stop="20180406181500 -0300" channel="SBT">
+    <title lang="pt">Coração Indomável</title>
+    <desc lang="pt">Miguel recebe uma carta de Lucia, onde ela pede permissão para ir para Ilha Dourada(n)</desc>
+    <credits>
+      <director>Nathalie Lartilleux</director>
+      <actor>Ana Brenda Contreras</actor>
+      <actor>Daniel Arenas</actor>
+      <actor>Elizabeth Álvarez</actor>
+      <actor>René Strickler</actor>
+    </credits>
+    <episode-num system="onscreen">S1 E60</episode-num>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180406181500 -0300" stop="20180406194500 -0300" channel="SBT">
+    <title lang="pt">Amanhã é Para Sempre</title>
+    <desc lang="pt">Fernanda conversa com o Padre e diz que se sente culpada pela morte de Eduardo e de sua Babá, Soledade O Padre, então, diz que sua penitência será dar as caras a todos aqueles que, de propósito ou sem querer, ignorou(n)</desc>
+    <credits>
+      <actor>Fernando Colunga</actor>
+      <actor>Silvia Navarro</actor>
+      <actor>Lucero</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S1 E35</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180406194500 -0300" stop="20180406203000 -0300" channel="SBT">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo são apresentados aos telespectadores com independência, análise, opinião e isenção, num formato de linguagem visual diferenciada(n)</desc>
+    <credits>
+      <director>Marcelo Parada</director>
+      <actor>Rachel Sheherazade</actor>
+      <actor>Joseval Peixoto</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180406203000 -0300" stop="20180406211500 -0300" channel="SBT">
+    <title lang="pt">Carinha de Anjo</title>
+    <desc lang="pt">Cassandra diz para Estefânia que irá na praça mais tarde para entregar o dinheiro para Rogério e que dirá para ele que é de sua mesada(n)</desc>
+    <credits>
+      <director>Ricardo Mantoanelli</director>
+      <actor>Lorena Queiroz</actor>
+      <actor>Jean Paulo Campos</actor>
+      <actor>Maisa Silva</actor>
+      <actor>Renata Randel</actor>
+      <actor>Siena Belle</actor>
+      <actor>Leonardo Oliveira</actor>
+    </credits>
+    <episode-num system="onscreen">S1 E360</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180406211500 -0300" stop="20180406221500 -0300" channel="SBT">
+    <title lang="pt">Chiquititas</title>
+    <desc lang="pt">Mosca e Pata pegam carona com Duda. Carol conversa com Dani por ela não levar Maria para dormir em casa. Andreia vai à consulta com Dr. Fernando e ele elogia sua recuperação(n)</desc>
+    <credits>
+      <actor>Giovanna Grigio</actor>
+      <actor>Julia Oliver</actor>
+      <actor>Raissa Chaddad</actor>
+      <actor>Cinthia Cruz</actor>
+    </credits>
+    <date>2013</date>
+    <episode-num system="onscreen">S1 E409</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180406221500 -0300" stop="20180406231500 -0300" channel="SBT">
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais(n)</desc>
+    <credits>
+      <director>Walter Scaramuzzi</director>
+      <director>Lucimara Parisi</director>
+      <actor>Valentina</actor>
+      <actor>Milene Pavorô Uehara</actor>
+      <actor>Eduardo Mascarenhas</actor>
+      <actor>Marquito</actor>
+      <actor>Faxinildo</actor>
+      <actor>Rodela</actor>
+      <actor>Iran Thieme</actor>
+      <actor>Rhenata Tolksdorf</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180406231500 -0300" stop="20180407010000 -0300" channel="SBT">
+    <title lang="pt">Tela de Sucessos: 12 Horas</title>
+    <desc lang="pt">Dois anos após ter sido raptada, Jill descobre que sua irmã despareceu e está convencida de que se trata do mesmo sequestrador. Sem o apoio da polícia. ela resolve ir à busca de sua irmã e enfrentar o criminoso sozinha(n)</desc>
+    <credits>
+      <director>Heitor Dhalia</director>
+      <actor>Amanda Seyfried</actor>
+      <actor>Jennifer Carpenter</actor>
+      <actor>Wess Bentley</actor>
+      <actor>Sebastian Stan</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180407010000 -0300" stop="20180407020000 -0300" channel="SBT">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <desc lang="pt">O programa traz muitos entrevistados interessantes e alto índice de piadas por minuto, abordando os fatos mais e menos relevantes do dia(n)</desc>
+    <credits>
+      <director>João Mesquita</director>
+      <actor>Léo Lins</actor>
+      <actor>Murilo Couto</actor>
+      <actor>Juliana Oliveira</actor>
+      <actor>Ultraje a Rigor</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180407020000 -0300" stop="20180407030000 -0300" channel="SBT">
+    <title lang="pt">Operação Mesquita</title>
+    <desc lang="pt">Operação Mesquita se propõe a descobrir o lado B dos famosos. E também de anônimos. O grande diferencial da atração é a ausência de estúdio: todo o programa é feito sobre rodas, os passantes fazem às vezes de auditório(n)</desc>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180407030000 -0300" stop="20180407060000 -0300" channel="SBT">
+    <title lang="pt">SBT Notícias</title>
+    <desc lang="pt">SBT Notícias é um telejornal noturno brasileiro, conta com a apresentação de Cassius Zeilmann e João Fernandes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180407060000 -0300" stop="20180407080000 -0300" channel="SBT">
+    <title lang="pt">Chaves</title>
+    <desc lang="pt">Chaves é um garoto pobre e órfão que mora numa vila, onde também moram as mais variadas figuras que vivem se metendo em confusão(n)</desc>
+    <credits>
+      <director>Roberto Gómez Bolaños</director>
+      <actor>María Antonieta de las Nieves</actor>
+      <actor>Ramón Valdés</actor>
+      <actor>Florinda Meza</actor>
+      <actor>Carlos Villagrán</actor>
+      <actor>Edgar Vivar</actor>
+      <actor>Rubén Aguirre</actor>
+      <actor>Angelines Fernández</actor>
+    </credits>
+    <date>1971</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180407080000 -0300" stop="20180407100000 -0300" channel="SBT">
+    <title lang="pt">Sábado Animado</title>
+    <desc lang="pt">Seu fim de semana começa com muito mais alegria no Sábado Animado. Os desenhos que fazem sucesso entre a garotada de todas as idades estão reunidos aqui. Você vai se divertir pra valer(n)</desc>
+    <credits>
+      <director>Silvia Abravanel</director>
+      <actor>Matheus Ueta</actor>
+      <actor>Ana Vitória Zimmermann</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180407100000 -0300" stop="20180407103000 -0300" channel="SBT">
+    <title lang="pt">Parque Patati Patatá</title>
+    <desc lang="pt">Patati e Patatá são palhaços que brincam com crianças todos os dias em um parque mágico cheio de personagens interessantes. Eles se divertem com músicas voltadas para o desenvolvimento social das crianças(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180407103000 -0300" stop="20180407123000 -0300" channel="SBT">
+    <title lang="pt">Mundo Disney</title>
+    <desc lang="pt">O SBT exibe o bloco de programação Mundo Disney, com séries e desenhos animados dos canais Disney Junior e Disney Channel, além de filmes e curtas metragens da Disney(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180407123000 -0300" stop="20180407141500 -0300" channel="SBT">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Henry Danger conta a história de um garoto de 13 anos, Henry Hart, que consegue um emprego de meio período como Kid Danger, um ajudante de treinos para o lutador Captain Man. Suas aventuras colorida mexem com a vida de Henry(n)</desc>
+    <credits>
+      <director>Steve Hoefer</director>
+      <actor>Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Jed Alexander</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Jace Norman</actor>
+      <actor>William Romeo</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180407141500 -0300" stop="20180407184500 -0300" channel="SBT">
+    <title lang="pt">Programa Raul Gil</title>
+    <desc lang="pt">Raul Gil entra em milhares de lares brasileiros. Ele é o comandante de um programa de televisão familiar, direcionado para todas as classes sociais e idades(n)</desc>
+    <credits>
+      <director>Raul Gil Jr</director>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180407184500 -0300" stop="20180407192000 -0300" channel="SBT">
+    <title lang="pt">Cabelo Pantene</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180407192000 -0300" stop="20180407194500 -0300" channel="SBT">
+    <title lang="pt">SuperNanny</title>
+    <desc lang="pt">A cada episódio Cris Poli atende ao pedido desesperado dos pais que perderam o controle na educação dos filhos. Educar uma criança pode ser muito mais saudável e divertido do que se pensa(n)</desc>
+    <credits>
+      <director>Ricardo Perez</director>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180407194500 -0300" stop="20180407203000 -0300" channel="SBT">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo são apresentados aos telespectadores com independência, análise, opinião e isenção, num formato de linguagem visual diferenciada(n)</desc>
+    <credits>
+      <director>Marcelo Parada</director>
+      <actor>Rachel Sheherazade</actor>
+      <actor>Joseval Peixoto</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180407203000 -0300" stop="20180407213000 -0300" channel="SBT">
+    <title lang="pt">Esquadrão da Moda</title>
+    <desc lang="pt">A top model e consultora Isabella Fiorentino e o stylist Arlindo Grund formam o casal de especialistas em moda que têm como missão ensinar às vítimas como se vestir bem e com estilo(n)</desc>
+    <credits>
+      <director>Aldrin Mazzei</director>
+      <actor>Isabella Fiorentino</actor>
+      <actor>Arlindo Grund</actor>
+      <actor>Rodrigo Cintra</actor>
+      <actor>Vanessa Rozan</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180407213000 -0300" stop="20180407230000 -0300" channel="SBT">
+    <title lang="pt">Fábrica de Casamentos</title>
+    <desc lang="pt">o SBT tem apenas sete dias para organizar o casório dos sonhos de noivos muito apaixonados(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180407230000 -0300" stop="20180408013000 -0300" channel="SBT">
+    <title lang="pt">Sobrenatural</title>
+    <desc lang="pt">Histórias assustadoras sobre dois irmãos marcados por um trágico e inexplicável acontecimento de infância. Eles terão de embarcar numa odisséia em busca do pai, que está desaparecido(n)</desc>
+    <credits>
+      <director>Eric Kripke</director>
+      <director>Kim Manners</director>
+      <director>Phil Sgriccia</director>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180408013000 -0300" stop="20180408023000 -0300" channel="SBT">
+    <title lang="pt">Operação Mesquita</title>
+    <desc lang="pt">Operação Mesquita se propõe a descobrir o lado B dos famosos. E também de anônimos. O grande diferencial da atração é a ausência de estúdio: todo o programa é feito sobre rodas, os passantes fazem às vezes de auditório(n)</desc>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180408023000 -0300" stop="20180408060000 -0300" channel="SBT">
+    <title lang="pt">SBT Notícias</title>
+    <desc lang="pt">SBT Notícias é um telejornal noturno brasileiro, conta com a apresentação de Cassius Zeilmann e João Fernandes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180408060000 -0300" stop="20180408070000 -0300" channel="SBT">
+    <title lang="pt">SBT Notícias</title>
+    <desc lang="pt">SBT Notícias é um telejornal noturno brasileiro, conta com a apresentação de Cassius Zeilmann e João Fernandes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180408070000 -0300" stop="20180408073000 -0300" channel="SBT">
+    <title lang="pt">Brasil Caminhoneiro</title>
+    <desc lang="pt">Focado na prestação de serviços, o programa tem como pilares básicos: responsabilidade social e segurança nas estradas. Além de fazer reportagens especiais exclusivas por todo o Brasil(n)</desc>
+    <date>2009</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180408073000 -0300" stop="20180408081500 -0300" channel="SBT">
+    <title lang="pt">Acelerados</title>
+    <desc lang="pt">O Rubinho Barrichello vem com tudo para o SBT. O ex-piloto de Fórmula 1 vai comandar o programa Acelerados. Emoção, adrenalina e, claro, novidades do mercado automobilístico brasileiro vão fazer parte das suas manhãs de domingo(n)</desc>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180408081500 -0300" stop="20180408090000 -0300" channel="SBT">
+    <title lang="pt">Tô de Férias</title>
+    <desc lang="pt">A atração tem como objetivo mostrar um turismo ao alcance de todos aqueles que sonham o ano inteiro com as férias perfeitas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180408090000 -0300" stop="20180408110000 -0300" channel="SBT">
+    <title lang="pt">Chaves</title>
+    <desc lang="pt">Chaves é um garoto pobre e órfão que mora numa vila, onde também moram as mais variadas figuras que vivem se metendo em confusão(n)</desc>
+    <credits>
+      <director>Roberto Gómez Bolaños</director>
+      <actor>María Antonieta de las Nieves</actor>
+      <actor>Ramón Valdés</actor>
+      <actor>Florinda Meza</actor>
+      <actor>Carlos Villagrán</actor>
+      <actor>Edgar Vivar</actor>
+      <actor>Rubén Aguirre</actor>
+      <actor>Angelines Fernández</actor>
+    </credits>
+    <date>1971</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180408110000 -0300" stop="20180408130000 -0300" channel="SBT">
+    <title lang="pt">Mundo Disney</title>
+    <desc lang="pt">O SBT exibe o bloco de programação Mundo Disney, com séries e desenhos animados dos canais Disney Junior e Disney Channel, além de filmes e curtas metragens da Disney(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180408130000 -0300" stop="20180408150000 -0300" channel="SBT">
+    <title lang="pt">Domingo Legal</title>
+    <desc lang="pt">Apresentado por Celso Portioli, o programa conta com a presença de celebridades, brincadeiras e notícias de última hora, além de reportagens exclusivas(n)</desc>
+    <credits>
+      <director>Roberto Manzoni</director>
+      <actor>Celso Portiolli</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180408150000 -0300" stop="20180408190000 -0300" channel="SBT">
+    <title lang="pt">Eliana</title>
+    <desc lang="pt">O programa Eliana tem como foco o público brasileiro, é uma atração para a família reunida, que busca lazer e entretenimento na TV(n)</desc>
+    <credits>
+      <director>Ariel Jacobowitz</director>
+      <actor>Eliana Michaelichen</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180408190000 -0300" stop="20180408194500 -0300" channel="SBT">
+    <title lang="pt">Roda a Roda Jequiti</title>
+    <desc lang="pt">Já imaginou ganhar prêmios e até 1 milhão de reais? Isso é realidade para quem compra ou vende produtos Jequiti. Comandado por Silvio Santos o Roda a Roda Jequiti pode realizar seu sonho(n)</desc>
+    <credits>
+      <director>Silvia Abravanel</director>
+      <actor>Patrícia Abravanel</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180408194500 -0300" stop="20180408200000 -0300" channel="SBT">
+    <title lang="pt">Sorteio da Tele Sena</title>
+    <desc lang="pt">A Tele Sena é um título de capitalização de pagamento único, lançado em novembro de 1991 pela Liderança Capitalização S/A e com sorteios apresentados semanalmente por Silvio Santos(n)</desc>
+    <date>1991</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180408200000 -0300" stop="20180409000000 -0300" channel="SBT">
+    <title lang="pt">Programa Silvio Santos</title>
+    <desc lang="pt">Silvio Santos comanda o mais divertido programa da televisão, com Jogos dos Pontinhos, Nada Além de Um Minuto, Jogo dos Casais, Câmera Escondida e Gincanas(n)</desc>
+    <credits>
+      <director>Fabiano Wicher</director>
+      <director>Hélio Chiari</director>
+      <director>Luiz Bento</director>
+      <actor>Luís Ricardo</actor>
+      <actor>Patrícia Salvador</actor>
+      <actor>Patrícia Abravanel</actor>
+      <actor>Lívia Andrade</actor>
+      <actor>Carlinhos Aguiar</actor>
+      <actor>Helen Ganzarolli</actor>
+      <actor>Alexandre Porpetone</actor>
+      <actor>Flôr</actor>
+    </credits>
+    <date>1981</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180409000000 -0300" stop="20180409010000 -0300" channel="SBT">
+    <title lang="pt">Quem Não Viu Vai Ver</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180409010000 -0300" stop="20180409060000 -0300" channel="SBT">
+    <title lang="pt">SBT Notícias</title>
+    <desc lang="pt">SBT Notícias é um telejornal noturno brasileiro, conta com a apresentação de Cassius Zeilmann e João Fernandes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180409060000 -0300" stop="20180409083000 -0300" channel="SBT">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt">Um formato original da emissora americana Univision, o jornal abordará as principais pautas do Brasil e do mundo(n)</desc>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180409083000 -0300" stop="20180409103000 -0300" channel="SBT">
+    <title lang="pt">Mundo Disney</title>
+    <desc lang="pt">O SBT exibe o bloco de programação Mundo Disney, com séries e desenhos animados dos canais Disney Junior e Disney Channel, além de filmes e curtas metragens da Disney(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180409103000 -0300" stop="20180409150000 -0300" channel="SBT">
+    <title lang="pt">Bom Dia &amp; Cia</title>
+    <desc lang="pt">De segunda a sexta, as manhãs do SBT ficam muito mais divertidas com o Bom Diau0026 Cia, um programa que traz os melhores desenhos da televisão brasileira e muitas brincadeiras com o telespectador(n)</desc>
+    <credits>
+      <director>Silvia Abravanel</director>
+      <actor>Ana Julia</actor>
+      <actor>Matheus Ueta</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180409150000 -0300" stop="20180409160000 -0300" channel="SBT">
+    <title lang="pt">Fofocalizando</title>
+    <desc lang="pt">Programa de variedades apresentado por Mamma Bruschetta, Leão Lobo e o Homem do Saco(n)</desc>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180409160000 -0300" stop="20180409170000 -0300" channel="SBT">
+    <title lang="pt">Casos de Família</title>
+    <desc lang="pt">Christina Rocha retrata os mais variados problemas e dramas do cotidiano de pessoas comuns, e mostra opções de como solucioná-los com ajuda de advogados e psicólogos(n)</desc>
+    <credits>
+      <director>Rafael Bello</director>
+      <director>Melissa Ribeiro</director>
+      <director>Raul Garin</director>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180409170000 -0300" stop="20180409181500 -0300" channel="SBT">
+    <title lang="pt">Coração Indomável</title>
+    <desc lang="pt">Depois de ser humilhada, por sua condição humilde, Maricruz muda de identidade e se vinga da família Narváez quando se torna uma mulher rica e poderosa, mostrando ser dona de um Coração Indomável(n)</desc>
+    <credits>
+      <director>Nathalie Lartilleux</director>
+      <actor>Ana Brenda Contreras</actor>
+      <actor>Daniel Arenas</actor>
+      <actor>Elizabeth Álvarez</actor>
+      <actor>René Strickler</actor>
+    </credits>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180409181500 -0300" stop="20180409194500 -0300" channel="SBT">
+    <title lang="pt">Amanhã é Para Sempre</title>
+    <desc lang="pt">Fernanda e Eduardo cresceram juntos, unidos por um amor inocente. Ela é a filha caçula do fazendeiro Gonçalo Elizalde, dono de uma grande companhia leiteira(n)</desc>
+    <credits>
+      <actor>Fernando Colunga</actor>
+      <actor>Silvia Navarro</actor>
+      <actor>Lucero</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180409194500 -0300" stop="20180409203000 -0300" channel="SBT">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo são apresentados aos telespectadores com independência, análise, opinião e isenção, num formato de linguagem visual diferenciada(n)</desc>
+    <credits>
+      <director>Marcelo Parada</director>
+      <actor>Rachel Sheherazade</actor>
+      <actor>Joseval Peixoto</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180409203000 -0300" stop="20180409211500 -0300" channel="SBT">
+    <title lang="pt">Carinha de Anjo</title>
+    <desc lang="pt">Dulce Maria, uma menina de 5 anos que é muito alegre e com bons pensamentos(n)</desc>
+    <credits>
+      <director>Ricardo Mantoanelli</director>
+      <actor>Lorena Queiroz</actor>
+      <actor>Jean Paulo Campos</actor>
+      <actor>Maisa Silva</actor>
+      <actor>Renata Randel</actor>
+      <actor>Siena Belle</actor>
+      <actor>Leonardo Oliveira</actor>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180409211500 -0300" stop="20180409221500 -0300" channel="SBT">
+    <title lang="pt">Chiquititas</title>
+    <desc lang="pt">As chiquititas são meninas que vivem no orfanato Raio de Luz, um lugar que está sempre de portas abertas para acolher crianças abandonadas e dar a elas um lar. O orfanato foi fundado pelo rico Dr. José Ricardo Almeida Campos(n)</desc>
+    <credits>
+      <actor>Giovanna Grigio</actor>
+      <actor>Julia Oliver</actor>
+      <actor>Raissa Chaddad</actor>
+      <actor>Cinthia Cruz</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180409221500 -0300" stop="20180409233000 -0300" channel="SBT">
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais(n)</desc>
+    <credits>
+      <director>Walter Scaramuzzi</director>
+      <director>Lucimara Parisi</director>
+      <actor>Valentina</actor>
+      <actor>Milene Pavorô Uehara</actor>
+      <actor>Eduardo Mascarenhas</actor>
+      <actor>Marquito</actor>
+      <actor>Faxinildo</actor>
+      <actor>Rodela</actor>
+      <actor>Iran Thieme</actor>
+      <actor>Rhenata Tolksdorf</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180409233000 -0300" stop="20180410003000 -0300" channel="SBT">
+    <title lang="pt">Conexão Repórter</title>
+    <desc lang="pt">Roberto Cabrini comanda o Conexão Repórter. Com reportagens investigativas, denúncias, e com muita seriedade, ele mostra a realidade no Brasil e no Mundo(n)</desc>
+    <credits>
+      <director>Roberto Cabrini</director>
+      <director>Marcelo Parada</director>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180410003000 -0300" stop="20180410013000 -0300" channel="SBT">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <desc lang="pt">O programa traz muitos entrevistados interessantes e alto índice de piadas por minuto, abordando os fatos mais e menos relevantes do dia(n)</desc>
+    <credits>
+      <director>João Mesquita</director>
+      <actor>Léo Lins</actor>
+      <actor>Murilo Couto</actor>
+      <actor>Juliana Oliveira</actor>
+      <actor>Ultraje a Rigor</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180410013000 -0300" stop="20180410060000 -0300" channel="SBT">
+    <title lang="pt">SBT Notícias</title>
+    <desc lang="pt">SBT Notícias é um telejornal noturno brasileiro, conta com a apresentação de Cassius Zeilmann e João Fernandes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180410060000 -0300" stop="20180410083000 -0300" channel="SBT">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt">Um formato original da emissora americana Univision, o jornal abordará as principais pautas do Brasil e do mundo(n)</desc>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180410083000 -0300" stop="20180410103000 -0300" channel="SBT">
+    <title lang="pt">Mundo Disney</title>
+    <desc lang="pt">O SBT exibe o bloco de programação Mundo Disney, com séries e desenhos animados dos canais Disney Junior e Disney Channel, além de filmes e curtas metragens da Disney(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180410103000 -0300" stop="20180410150000 -0300" channel="SBT">
+    <title lang="pt">Bom Dia &amp; Cia</title>
+    <desc lang="pt">De segunda a sexta, as manhãs do SBT ficam muito mais divertidas com o Bom Diau0026 Cia, um programa que traz os melhores desenhos da televisão brasileira e muitas brincadeiras com o telespectador(n)</desc>
+    <credits>
+      <director>Silvia Abravanel</director>
+      <actor>Ana Julia</actor>
+      <actor>Matheus Ueta</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180410150000 -0300" stop="20180410160000 -0300" channel="SBT">
+    <title lang="pt">Fofocalizando</title>
+    <desc lang="pt">Programa de variedades apresentado por Mamma Bruschetta, Leão Lobo e o Homem do Saco(n)</desc>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180410160000 -0300" stop="20180410170000 -0300" channel="SBT">
+    <title lang="pt">Casos de Família</title>
+    <desc lang="pt">Christina Rocha retrata os mais variados problemas e dramas do cotidiano de pessoas comuns, e mostra opções de como solucioná-los com ajuda de advogados e psicólogos(n)</desc>
+    <credits>
+      <director>Rafael Bello</director>
+      <director>Melissa Ribeiro</director>
+      <director>Raul Garin</director>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180410170000 -0300" stop="20180410181500 -0300" channel="SBT">
+    <title lang="pt">Coração Indomável</title>
+    <desc lang="pt">Depois de ser humilhada, por sua condição humilde, Maricruz muda de identidade e se vinga da família Narváez quando se torna uma mulher rica e poderosa, mostrando ser dona de um Coração Indomável(n)</desc>
+    <credits>
+      <director>Nathalie Lartilleux</director>
+      <actor>Ana Brenda Contreras</actor>
+      <actor>Daniel Arenas</actor>
+      <actor>Elizabeth Álvarez</actor>
+      <actor>René Strickler</actor>
+    </credits>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180410181500 -0300" stop="20180410194500 -0300" channel="SBT">
+    <title lang="pt">Amanhã é Para Sempre</title>
+    <desc lang="pt">Fernanda e Eduardo cresceram juntos, unidos por um amor inocente. Ela é a filha caçula do fazendeiro Gonçalo Elizalde, dono de uma grande companhia leiteira(n)</desc>
+    <credits>
+      <actor>Fernando Colunga</actor>
+      <actor>Silvia Navarro</actor>
+      <actor>Lucero</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180410194500 -0300" stop="20180410203000 -0300" channel="SBT">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo são apresentados aos telespectadores com independência, análise, opinião e isenção, num formato de linguagem visual diferenciada(n)</desc>
+    <credits>
+      <director>Marcelo Parada</director>
+      <actor>Rachel Sheherazade</actor>
+      <actor>Joseval Peixoto</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180410203000 -0300" stop="20180410211500 -0300" channel="SBT">
+    <title lang="pt">Carinha de Anjo</title>
+    <desc lang="pt">Dulce Maria, uma menina de 5 anos que é muito alegre e com bons pensamentos(n)</desc>
+    <credits>
+      <director>Ricardo Mantoanelli</director>
+      <actor>Lorena Queiroz</actor>
+      <actor>Jean Paulo Campos</actor>
+      <actor>Maisa Silva</actor>
+      <actor>Renata Randel</actor>
+      <actor>Siena Belle</actor>
+      <actor>Leonardo Oliveira</actor>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180410211500 -0300" stop="20180410221500 -0300" channel="SBT">
+    <title lang="pt">Chiquititas</title>
+    <desc lang="pt">As chiquititas são meninas que vivem no orfanato Raio de Luz, um lugar que está sempre de portas abertas para acolher crianças abandonadas e dar a elas um lar. O orfanato foi fundado pelo rico Dr. José Ricardo Almeida Campos(n)</desc>
+    <credits>
+      <actor>Giovanna Grigio</actor>
+      <actor>Julia Oliver</actor>
+      <actor>Raissa Chaddad</actor>
+      <actor>Cinthia Cruz</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180410221500 -0300" stop="20180410231500 -0300" channel="SBT">
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais(n)</desc>
+    <credits>
+      <director>Walter Scaramuzzi</director>
+      <director>Lucimara Parisi</director>
+      <actor>Valentina</actor>
+      <actor>Milene Pavorô Uehara</actor>
+      <actor>Eduardo Mascarenhas</actor>
+      <actor>Marquito</actor>
+      <actor>Faxinildo</actor>
+      <actor>Rodela</actor>
+      <actor>Iran Thieme</actor>
+      <actor>Rhenata Tolksdorf</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180410231500 -0300" stop="20180411010000 -0300" channel="SBT">
+    <title lang="pt">Cine Espetacular</title>
+    <desc lang="pt">Toda terça-feira, a sessão exibe os melhores filmes do cinema(n)</desc>
+    <date>1997</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180411010000 -0300" stop="20180411020000 -0300" channel="SBT">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <desc lang="pt">O programa traz muitos entrevistados interessantes e alto índice de piadas por minuto, abordando os fatos mais e menos relevantes do dia(n)</desc>
+    <credits>
+      <director>João Mesquita</director>
+      <actor>Léo Lins</actor>
+      <actor>Murilo Couto</actor>
+      <actor>Juliana Oliveira</actor>
+      <actor>Ultraje a Rigor</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180411020000 -0300" stop="20180411060000 -0300" channel="SBT">
+    <title lang="pt">SBT Notícias</title>
+    <desc lang="pt">SBT Notícias é um telejornal noturno brasileiro, conta com a apresentação de Cassius Zeilmann e João Fernandes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180411060000 -0300" stop="20180411083000 -0300" channel="SBT">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt">Um formato original da emissora americana Univision, o jornal abordará as principais pautas do Brasil e do mundo(n)</desc>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180411083000 -0300" stop="20180411103000 -0300" channel="SBT">
+    <title lang="pt">Mundo Disney</title>
+    <desc lang="pt">O SBT exibe o bloco de programação Mundo Disney, com séries e desenhos animados dos canais Disney Junior e Disney Channel, além de filmes e curtas metragens da Disney(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180411103000 -0300" stop="20180411150000 -0300" channel="SBT">
+    <title lang="pt">Bom Dia &amp; Cia</title>
+    <desc lang="pt">De segunda a sexta, as manhãs do SBT ficam muito mais divertidas com o Bom Diau0026 Cia, um programa que traz os melhores desenhos da televisão brasileira e muitas brincadeiras com o telespectador(n)</desc>
+    <credits>
+      <director>Silvia Abravanel</director>
+      <actor>Ana Julia</actor>
+      <actor>Matheus Ueta</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180411150000 -0300" stop="20180411160000 -0300" channel="SBT">
+    <title lang="pt">Fofocalizando</title>
+    <desc lang="pt">Programa de variedades apresentado por Mamma Bruschetta, Leão Lobo e o Homem do Saco(n)</desc>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180411160000 -0300" stop="20180411170000 -0300" channel="SBT">
+    <title lang="pt">Casos de Família</title>
+    <desc lang="pt">Christina Rocha retrata os mais variados problemas e dramas do cotidiano de pessoas comuns, e mostra opções de como solucioná-los com ajuda de advogados e psicólogos(n)</desc>
+    <credits>
+      <director>Rafael Bello</director>
+      <director>Melissa Ribeiro</director>
+      <director>Raul Garin</director>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180411170000 -0300" stop="20180411181500 -0300" channel="SBT">
+    <title lang="pt">Coração Indomável</title>
+    <desc lang="pt">Depois de ser humilhada, por sua condição humilde, Maricruz muda de identidade e se vinga da família Narváez quando se torna uma mulher rica e poderosa, mostrando ser dona de um Coração Indomável(n)</desc>
+    <credits>
+      <director>Nathalie Lartilleux</director>
+      <actor>Ana Brenda Contreras</actor>
+      <actor>Daniel Arenas</actor>
+      <actor>Elizabeth Álvarez</actor>
+      <actor>René Strickler</actor>
+    </credits>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180411181500 -0300" stop="20180411194500 -0300" channel="SBT">
+    <title lang="pt">Amanhã é Para Sempre</title>
+    <desc lang="pt">Fernanda e Eduardo cresceram juntos, unidos por um amor inocente. Ela é a filha caçula do fazendeiro Gonçalo Elizalde, dono de uma grande companhia leiteira(n)</desc>
+    <credits>
+      <actor>Fernando Colunga</actor>
+      <actor>Silvia Navarro</actor>
+      <actor>Lucero</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180411194500 -0300" stop="20180411203000 -0300" channel="SBT">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo são apresentados aos telespectadores com independência, análise, opinião e isenção, num formato de linguagem visual diferenciada(n)</desc>
+    <credits>
+      <director>Marcelo Parada</director>
+      <actor>Rachel Sheherazade</actor>
+      <actor>Joseval Peixoto</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180411203000 -0300" stop="20180411211500 -0300" channel="SBT">
+    <title lang="pt">Carinha de Anjo</title>
+    <desc lang="pt">Dulce Maria, uma menina de 5 anos que é muito alegre e com bons pensamentos(n)</desc>
+    <credits>
+      <director>Ricardo Mantoanelli</director>
+      <actor>Lorena Queiroz</actor>
+      <actor>Jean Paulo Campos</actor>
+      <actor>Maisa Silva</actor>
+      <actor>Renata Randel</actor>
+      <actor>Siena Belle</actor>
+      <actor>Leonardo Oliveira</actor>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180411211500 -0300" stop="20180411221500 -0300" channel="SBT">
+    <title lang="pt">Chiquititas</title>
+    <desc lang="pt">As chiquititas são meninas que vivem no orfanato Raio de Luz, um lugar que está sempre de portas abertas para acolher crianças abandonadas e dar a elas um lar. O orfanato foi fundado pelo rico Dr. José Ricardo Almeida Campos(n)</desc>
+    <credits>
+      <actor>Giovanna Grigio</actor>
+      <actor>Julia Oliver</actor>
+      <actor>Raissa Chaddad</actor>
+      <actor>Cinthia Cruz</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180411221500 -0300" stop="20180411224500 -0300" channel="SBT">
+    <title lang="pt">Pra Ganhar é Só Rodar</title>
+    <desc lang="pt">No programa o participante sorteado vai até o palco e roda cinco piões com as fotos dos artistas do SBT. O prêmio é definido de acordo com as combinações das fotos e pode valer até 1 milhão de reais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180411224500 -0300" stop="20180412003000 -0300" channel="SBT">
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais(n)</desc>
+    <credits>
+      <director>Walter Scaramuzzi</director>
+      <director>Lucimara Parisi</director>
+      <actor>Valentina</actor>
+      <actor>Milene Pavorô Uehara</actor>
+      <actor>Eduardo Mascarenhas</actor>
+      <actor>Marquito</actor>
+      <actor>Faxinildo</actor>
+      <actor>Rodela</actor>
+      <actor>Iran Thieme</actor>
+      <actor>Rhenata Tolksdorf</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180412003000 -0300" stop="20180412013000 -0300" channel="SBT">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <desc lang="pt">O programa traz muitos entrevistados interessantes e alto índice de piadas por minuto, abordando os fatos mais e menos relevantes do dia(n)</desc>
+    <credits>
+      <director>João Mesquita</director>
+      <actor>Léo Lins</actor>
+      <actor>Murilo Couto</actor>
+      <actor>Juliana Oliveira</actor>
+      <actor>Ultraje a Rigor</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180412013000 -0300" stop="20180412060000 -0300" channel="SBT">
+    <title lang="pt">SBT Notícias</title>
+    <desc lang="pt">SBT Notícias é um telejornal noturno brasileiro, conta com a apresentação de Cassius Zeilmann e João Fernandes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412060000 -0300" stop="20180412083000 -0300" channel="SBT">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt">Um formato original da emissora americana Univision, o jornal abordará as principais pautas do Brasil e do mundo(n)</desc>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412083000 -0300" stop="20180412103000 -0300" channel="SBT">
+    <title lang="pt">Mundo Disney</title>
+    <desc lang="pt">O SBT exibe o bloco de programação Mundo Disney, com séries e desenhos animados dos canais Disney Junior e Disney Channel, além de filmes e curtas metragens da Disney(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412103000 -0300" stop="20180412150000 -0300" channel="SBT">
+    <title lang="pt">Bom Dia &amp; Cia</title>
+    <desc lang="pt">De segunda a sexta, as manhãs do SBT ficam muito mais divertidas com o Bom Diau0026 Cia, um programa que traz os melhores desenhos da televisão brasileira e muitas brincadeiras com o telespectador(n)</desc>
+    <credits>
+      <director>Silvia Abravanel</director>
+      <actor>Ana Julia</actor>
+      <actor>Matheus Ueta</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412150000 -0300" stop="20180412160000 -0300" channel="SBT">
+    <title lang="pt">Fofocalizando</title>
+    <desc lang="pt">Programa de variedades apresentado por Mamma Bruschetta, Leão Lobo e o Homem do Saco(n)</desc>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412160000 -0300" stop="20180412170000 -0300" channel="SBT">
+    <title lang="pt">Casos de Família</title>
+    <desc lang="pt">Christina Rocha retrata os mais variados problemas e dramas do cotidiano de pessoas comuns, e mostra opções de como solucioná-los com ajuda de advogados e psicólogos(n)</desc>
+    <credits>
+      <director>Rafael Bello</director>
+      <director>Melissa Ribeiro</director>
+      <director>Raul Garin</director>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180412170000 -0300" stop="20180412181500 -0300" channel="SBT">
+    <title lang="pt">Coração Indomável</title>
+    <desc lang="pt">Depois de ser humilhada, por sua condição humilde, Maricruz muda de identidade e se vinga da família Narváez quando se torna uma mulher rica e poderosa, mostrando ser dona de um Coração Indomável(n)</desc>
+    <credits>
+      <director>Nathalie Lartilleux</director>
+      <actor>Ana Brenda Contreras</actor>
+      <actor>Daniel Arenas</actor>
+      <actor>Elizabeth Álvarez</actor>
+      <actor>René Strickler</actor>
+    </credits>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180412181500 -0300" stop="20180412194500 -0300" channel="SBT">
+    <title lang="pt">Amanhã é Para Sempre</title>
+    <desc lang="pt">Fernanda e Eduardo cresceram juntos, unidos por um amor inocente. Ela é a filha caçula do fazendeiro Gonçalo Elizalde, dono de uma grande companhia leiteira(n)</desc>
+    <credits>
+      <actor>Fernando Colunga</actor>
+      <actor>Silvia Navarro</actor>
+      <actor>Lucero</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412194500 -0300" stop="20180412203000 -0300" channel="SBT">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo são apresentados aos telespectadores com independência, análise, opinião e isenção, num formato de linguagem visual diferenciada(n)</desc>
+    <credits>
+      <director>Marcelo Parada</director>
+      <actor>Rachel Sheherazade</actor>
+      <actor>Joseval Peixoto</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412203000 -0300" stop="20180412211500 -0300" channel="SBT">
+    <title lang="pt">Carinha de Anjo</title>
+    <desc lang="pt">Dulce Maria, uma menina de 5 anos que é muito alegre e com bons pensamentos(n)</desc>
+    <credits>
+      <director>Ricardo Mantoanelli</director>
+      <actor>Lorena Queiroz</actor>
+      <actor>Jean Paulo Campos</actor>
+      <actor>Maisa Silva</actor>
+      <actor>Renata Randel</actor>
+      <actor>Siena Belle</actor>
+      <actor>Leonardo Oliveira</actor>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412211500 -0300" stop="20180412221500 -0300" channel="SBT">
+    <title lang="pt">Chiquititas</title>
+    <desc lang="pt">As chiquititas são meninas que vivem no orfanato Raio de Luz, um lugar que está sempre de portas abertas para acolher crianças abandonadas e dar a elas um lar. O orfanato foi fundado pelo rico Dr. José Ricardo Almeida Campos(n)</desc>
+    <credits>
+      <actor>Giovanna Grigio</actor>
+      <actor>Julia Oliver</actor>
+      <actor>Raissa Chaddad</actor>
+      <actor>Cinthia Cruz</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180412221500 -0300" stop="20180412231500 -0300" channel="SBT">
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais(n)</desc>
+    <credits>
+      <director>Walter Scaramuzzi</director>
+      <director>Lucimara Parisi</director>
+      <actor>Valentina</actor>
+      <actor>Milene Pavorô Uehara</actor>
+      <actor>Eduardo Mascarenhas</actor>
+      <actor>Marquito</actor>
+      <actor>Faxinildo</actor>
+      <actor>Rodela</actor>
+      <actor>Iran Thieme</actor>
+      <actor>Rhenata Tolksdorf</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180412231500 -0300" stop="20180413003000 -0300" channel="SBT">
+    <title lang="pt">A Praça é Nossa</title>
+    <desc lang="pt">O bom humor é o ingrediente mais precioso do programa. Entre os personagens que passeiam pelo programa estão desde tipos inocentes até personagens que satirizam a política nacional(n)</desc>
+    <credits>
+      <director>Marcelo de Nóbrega</director>
+      <actor>Carlos Alberto de Nóbrega</actor>
+      <actor>Moacyr Franco</actor>
+      <actor>Nany People</actor>
+      <actor>Alexandre Porpetone</actor>
+      <actor>Charles Gutemberg</actor>
+      <actor>Lívia Andrade</actor>
+    </credits>
+    <date>1987</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180413003000 -0300" stop="20180413013000 -0300" channel="SBT">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <desc lang="pt">O programa traz muitos entrevistados interessantes e alto índice de piadas por minuto, abordando os fatos mais e menos relevantes do dia(n)</desc>
+    <credits>
+      <director>João Mesquita</director>
+      <actor>Léo Lins</actor>
+      <actor>Murilo Couto</actor>
+      <actor>Juliana Oliveira</actor>
+      <actor>Ultraje a Rigor</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180413013000 -0300" stop="20180413060000 -0300" channel="SBT">
+    <title lang="pt">SBT Notícias</title>
+    <desc lang="pt">SBT Notícias é um telejornal noturno brasileiro, conta com a apresentação de Cassius Zeilmann e João Fernandes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180413060000 -0300" stop="20180413083000 -0300" channel="SBT">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt">Um formato original da emissora americana Univision, o jornal abordará as principais pautas do Brasil e do mundo(n)</desc>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180413083000 -0300" stop="20180413103000 -0300" channel="SBT">
+    <title lang="pt">Mundo Disney</title>
+    <desc lang="pt">O SBT exibe o bloco de programação Mundo Disney, com séries e desenhos animados dos canais Disney Junior e Disney Channel, além de filmes e curtas metragens da Disney(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180413103000 -0300" stop="20180413150000 -0300" channel="SBT">
+    <title lang="pt">Bom Dia &amp; Cia</title>
+    <desc lang="pt">De segunda a sexta, as manhãs do SBT ficam muito mais divertidas com o Bom Diau0026 Cia, um programa que traz os melhores desenhos da televisão brasileira e muitas brincadeiras com o telespectador(n)</desc>
+    <credits>
+      <director>Silvia Abravanel</director>
+      <actor>Ana Julia</actor>
+      <actor>Matheus Ueta</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180413150000 -0300" stop="20180413160000 -0300" channel="SBT">
+    <title lang="pt">Fofocalizando</title>
+    <desc lang="pt">Programa de variedades apresentado por Mamma Bruschetta, Leão Lobo e o Homem do Saco(n)</desc>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180413160000 -0300" stop="20180413170000 -0300" channel="SBT">
+    <title lang="pt">Casos de Família</title>
+    <desc lang="pt">Christina Rocha retrata os mais variados problemas e dramas do cotidiano de pessoas comuns, e mostra opções de como solucioná-los com ajuda de advogados e psicólogos(n)</desc>
+    <credits>
+      <director>Rafael Bello</director>
+      <director>Melissa Ribeiro</director>
+      <director>Raul Garin</director>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180413170000 -0300" stop="20180413181500 -0300" channel="SBT">
+    <title lang="pt">Coração Indomável</title>
+    <desc lang="pt">Depois de ser humilhada, por sua condição humilde, Maricruz muda de identidade e se vinga da família Narváez quando se torna uma mulher rica e poderosa, mostrando ser dona de um Coração Indomável(n)</desc>
+    <credits>
+      <director>Nathalie Lartilleux</director>
+      <actor>Ana Brenda Contreras</actor>
+      <actor>Daniel Arenas</actor>
+      <actor>Elizabeth Álvarez</actor>
+      <actor>René Strickler</actor>
+    </credits>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180413181500 -0300" stop="20180413194500 -0300" channel="SBT">
+    <title lang="pt">Amanhã é Para Sempre</title>
+    <desc lang="pt">Fernanda e Eduardo cresceram juntos, unidos por um amor inocente. Ela é a filha caçula do fazendeiro Gonçalo Elizalde, dono de uma grande companhia leiteira(n)</desc>
+    <credits>
+      <actor>Fernando Colunga</actor>
+      <actor>Silvia Navarro</actor>
+      <actor>Lucero</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180413194500 -0300" stop="20180413203000 -0300" channel="SBT">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo são apresentados aos telespectadores com independência, análise, opinião e isenção, num formato de linguagem visual diferenciada(n)</desc>
+    <credits>
+      <director>Marcelo Parada</director>
+      <actor>Rachel Sheherazade</actor>
+      <actor>Joseval Peixoto</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180413203000 -0300" stop="20180413211500 -0300" channel="SBT">
+    <title lang="pt">Carinha de Anjo</title>
+    <desc lang="pt">Dulce Maria, uma menina de 5 anos que é muito alegre e com bons pensamentos(n)</desc>
+    <credits>
+      <director>Ricardo Mantoanelli</director>
+      <actor>Lorena Queiroz</actor>
+      <actor>Jean Paulo Campos</actor>
+      <actor>Maisa Silva</actor>
+      <actor>Renata Randel</actor>
+      <actor>Siena Belle</actor>
+      <actor>Leonardo Oliveira</actor>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180413211500 -0300" stop="20180413221500 -0300" channel="SBT">
+    <title lang="pt">Chiquititas</title>
+    <desc lang="pt">As chiquititas são meninas que vivem no orfanato Raio de Luz, um lugar que está sempre de portas abertas para acolher crianças abandonadas e dar a elas um lar. O orfanato foi fundado pelo rico Dr. José Ricardo Almeida Campos(n)</desc>
+    <credits>
+      <actor>Giovanna Grigio</actor>
+      <actor>Julia Oliver</actor>
+      <actor>Raissa Chaddad</actor>
+      <actor>Cinthia Cruz</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180413221500 -0300" stop="20180413231500 -0300" channel="SBT">
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais(n)</desc>
+    <credits>
+      <director>Walter Scaramuzzi</director>
+      <director>Lucimara Parisi</director>
+      <actor>Valentina</actor>
+      <actor>Milene Pavorô Uehara</actor>
+      <actor>Eduardo Mascarenhas</actor>
+      <actor>Marquito</actor>
+      <actor>Faxinildo</actor>
+      <actor>Rodela</actor>
+      <actor>Iran Thieme</actor>
+      <actor>Rhenata Tolksdorf</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180413231500 -0300" stop="20180414010000 -0300" channel="SBT">
+    <title lang="pt">Tela de Sucessos</title>
+    <desc lang="pt">Sempre os melhores filmes para você e sua família se divertirem(n)</desc>
+    <date>1997</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180414010000 -0300" stop="20180414020000 -0300" channel="SBT">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <desc lang="pt">O programa traz muitos entrevistados interessantes e alto índice de piadas por minuto, abordando os fatos mais e menos relevantes do dia(n)</desc>
+    <credits>
+      <director>João Mesquita</director>
+      <actor>Léo Lins</actor>
+      <actor>Murilo Couto</actor>
+      <actor>Juliana Oliveira</actor>
+      <actor>Ultraje a Rigor</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180414020000 -0300" stop="20180414030000 -0300" channel="SBT">
+    <title lang="pt">Operação Mesquita</title>
+    <desc lang="pt">Operação Mesquita se propõe a descobrir o lado B dos famosos. E também de anônimos. O grande diferencial da atração é a ausência de estúdio: todo o programa é feito sobre rodas, os passantes fazem às vezes de auditório(n)</desc>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180414030000 -0300" stop="20180414060000 -0300" channel="SBT">
+    <title lang="pt">SBT Notícias</title>
+    <desc lang="pt">SBT Notícias é um telejornal noturno brasileiro, conta com a apresentação de Cassius Zeilmann e João Fernandes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180414060000 -0300" stop="20180414080000 -0300" channel="SBT">
+    <title lang="pt">Chaves</title>
+    <desc lang="pt">Chaves é um garoto pobre e órfão que mora numa vila, onde também moram as mais variadas figuras que vivem se metendo em confusão(n)</desc>
+    <credits>
+      <director>Roberto Gómez Bolaños</director>
+      <actor>María Antonieta de las Nieves</actor>
+      <actor>Ramón Valdés</actor>
+      <actor>Florinda Meza</actor>
+      <actor>Carlos Villagrán</actor>
+      <actor>Edgar Vivar</actor>
+      <actor>Rubén Aguirre</actor>
+      <actor>Angelines Fernández</actor>
+    </credits>
+    <date>1971</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180414080000 -0300" stop="20180414100000 -0300" channel="SBT">
+    <title lang="pt">Sábado Animado</title>
+    <desc lang="pt">Seu fim de semana começa com muito mais alegria no Sábado Animado. Os desenhos que fazem sucesso entre a garotada de todas as idades estão reunidos aqui. Você vai se divertir pra valer(n)</desc>
+    <credits>
+      <director>Silvia Abravanel</director>
+      <actor>Matheus Ueta</actor>
+      <actor>Ana Vitória Zimmermann</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180414100000 -0300" stop="20180414103000 -0300" channel="SBT">
+    <title lang="pt">Parque Patati Patatá</title>
+    <desc lang="pt">Patati e Patatá são palhaços que brincam com crianças todos os dias em um parque mágico cheio de personagens interessantes. Eles se divertem com músicas voltadas para o desenvolvimento social das crianças(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180414103000 -0300" stop="20180414123000 -0300" channel="SBT">
+    <title lang="pt">Mundo Disney</title>
+    <desc lang="pt">O SBT exibe o bloco de programação Mundo Disney, com séries e desenhos animados dos canais Disney Junior e Disney Channel, além de filmes e curtas metragens da Disney(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180414123000 -0300" stop="20180414141500 -0300" channel="SBT">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Henry Danger conta a história de um garoto de 13 anos, Henry Hart, que consegue um emprego de meio período como Kid Danger, um ajudante de treinos para o lutador Captain Man. Suas aventuras colorida mexem com a vida de Henry(n)</desc>
+    <credits>
+      <director>Steve Hoefer</director>
+      <actor>Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Jed Alexander</actor>
+      <actor>Sean Ryan Fox</actor>
+      <actor>Jace Norman</actor>
+      <actor>William Romeo</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180414141500 -0300" stop="20180414184500 -0300" channel="SBT">
+    <title lang="pt">Programa Raul Gil</title>
+    <desc lang="pt">Raul Gil entra em milhares de lares brasileiros. Ele é o comandante de um programa de televisão familiar, direcionado para todas as classes sociais e idades(n)</desc>
+    <credits>
+      <director>Raul Gil Jr</director>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180414184500 -0300" stop="20180414192000 -0300" channel="SBT">
+    <title lang="pt">Cabelo Pantene</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180414192000 -0300" stop="20180414194500 -0300" channel="SBT">
+    <title lang="pt">SuperNanny</title>
+    <desc lang="pt">A cada episódio Cris Poli atende ao pedido desesperado dos pais que perderam o controle na educação dos filhos. Educar uma criança pode ser muito mais saudável e divertido do que se pensa(n)</desc>
+    <credits>
+      <director>Ricardo Perez</director>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180414194500 -0300" stop="20180414203000 -0300" channel="SBT">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo são apresentados aos telespectadores com independência, análise, opinião e isenção, num formato de linguagem visual diferenciada(n)</desc>
+    <credits>
+      <director>Marcelo Parada</director>
+      <actor>Rachel Sheherazade</actor>
+      <actor>Joseval Peixoto</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180414203000 -0300" stop="20180414213000 -0300" channel="SBT">
+    <title lang="pt">Esquadrão da Moda</title>
+    <desc lang="pt">A top model e consultora Isabella Fiorentino e o stylist Arlindo Grund formam o casal de especialistas em moda que têm como missão ensinar às vítimas como se vestir bem e com estilo(n)</desc>
+    <credits>
+      <director>Aldrin Mazzei</director>
+      <actor>Isabella Fiorentino</actor>
+      <actor>Arlindo Grund</actor>
+      <actor>Rodrigo Cintra</actor>
+      <actor>Vanessa Rozan</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180414213000 -0300" stop="20180414230000 -0300" channel="SBT">
+    <title lang="pt">Fábrica de Casamentos</title>
+    <desc lang="pt">o SBT tem apenas sete dias para organizar o casório dos sonhos de noivos muito apaixonados(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180414230000 -0300" stop="20180415013000 -0300" channel="SBT">
+    <title lang="pt">Sobrenatural</title>
+    <desc lang="pt">Histórias assustadoras sobre dois irmãos marcados por um trágico e inexplicável acontecimento de infância. Eles terão de embarcar numa odisséia em busca do pai, que está desaparecido(n)</desc>
+    <credits>
+      <director>Eric Kripke</director>
+      <director>Kim Manners</director>
+      <director>Phil Sgriccia</director>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180415013000 -0300" stop="20180415023000 -0300" channel="SBT">
+    <title lang="pt">Operação Mesquita</title>
+    <desc lang="pt">Operação Mesquita se propõe a descobrir o lado B dos famosos. E também de anônimos. O grande diferencial da atração é a ausência de estúdio: todo o programa é feito sobre rodas, os passantes fazem às vezes de auditório(n)</desc>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180415023000 -0300" stop="20180415060000 -0300" channel="SBT">
+    <title lang="pt">SBT Notícias</title>
+    <desc lang="pt">SBT Notícias é um telejornal noturno brasileiro, conta com a apresentação de Cassius Zeilmann e João Fernandes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180415060000 -0300" stop="20180415070000 -0300" channel="SBT">
+    <title lang="pt">SBT Notícias</title>
+    <desc lang="pt">SBT Notícias é um telejornal noturno brasileiro, conta com a apresentação de Cassius Zeilmann e João Fernandes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180415070000 -0300" stop="20180415073000 -0300" channel="SBT">
+    <title lang="pt">Brasil Caminhoneiro</title>
+    <desc lang="pt">Focado na prestação de serviços, o programa tem como pilares básicos: responsabilidade social e segurança nas estradas. Além de fazer reportagens especiais exclusivas por todo o Brasil(n)</desc>
+    <date>2009</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180415073000 -0300" stop="20180415081500 -0300" channel="SBT">
+    <title lang="pt">Acelerados</title>
+    <desc lang="pt">O Rubinho Barrichello vem com tudo para o SBT. O ex-piloto de Fórmula 1 vai comandar o programa Acelerados. Emoção, adrenalina e, claro, novidades do mercado automobilístico brasileiro vão fazer parte das suas manhãs de domingo(n)</desc>
+    <date>2015</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180415081500 -0300" stop="20180415090000 -0300" channel="SBT">
+    <title lang="pt">Tô de Férias</title>
+    <desc lang="pt">A atração tem como objetivo mostrar um turismo ao alcance de todos aqueles que sonham o ano inteiro com as férias perfeitas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180415090000 -0300" stop="20180415110000 -0300" channel="SBT">
+    <title lang="pt">Chaves</title>
+    <desc lang="pt">Chaves é um garoto pobre e órfão que mora numa vila, onde também moram as mais variadas figuras que vivem se metendo em confusão(n)</desc>
+    <credits>
+      <director>Roberto Gómez Bolaños</director>
+      <actor>María Antonieta de las Nieves</actor>
+      <actor>Ramón Valdés</actor>
+      <actor>Florinda Meza</actor>
+      <actor>Carlos Villagrán</actor>
+      <actor>Edgar Vivar</actor>
+      <actor>Rubén Aguirre</actor>
+      <actor>Angelines Fernández</actor>
+    </credits>
+    <date>1971</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180415110000 -0300" stop="20180415130000 -0300" channel="SBT">
+    <title lang="pt">Mundo Disney</title>
+    <desc lang="pt">O SBT exibe o bloco de programação Mundo Disney, com séries e desenhos animados dos canais Disney Junior e Disney Channel, além de filmes e curtas metragens da Disney(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180415130000 -0300" stop="20180415150000 -0300" channel="SBT">
+    <title lang="pt">Domingo Legal</title>
+    <desc lang="pt">Apresentado por Celso Portioli, o programa conta com a presença de celebridades, brincadeiras e notícias de última hora, além de reportagens exclusivas(n)</desc>
+    <credits>
+      <director>Roberto Manzoni</director>
+      <actor>Celso Portiolli</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180415150000 -0300" stop="20180415190000 -0300" channel="SBT">
+    <title lang="pt">Eliana</title>
+    <desc lang="pt">O programa Eliana tem como foco o público brasileiro, é uma atração para a família reunida, que busca lazer e entretenimento na TV(n)</desc>
+    <credits>
+      <director>Ariel Jacobowitz</director>
+      <actor>Eliana Michaelichen</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180415190000 -0300" stop="20180415194500 -0300" channel="SBT">
+    <title lang="pt">Roda a Roda Jequiti</title>
+    <desc lang="pt">Já imaginou ganhar prêmios e até 1 milhão de reais? Isso é realidade para quem compra ou vende produtos Jequiti. Comandado por Silvio Santos o Roda a Roda Jequiti pode realizar seu sonho(n)</desc>
+    <credits>
+      <director>Silvia Abravanel</director>
+      <actor>Patrícia Abravanel</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180415194500 -0300" stop="20180415200000 -0300" channel="SBT">
+    <title lang="pt">Sorteio da Tele Sena</title>
+    <desc lang="pt">A Tele Sena é um título de capitalização de pagamento único, lançado em novembro de 1991 pela Liderança Capitalização S/A e com sorteios apresentados semanalmente por Silvio Santos(n)</desc>
+    <date>1991</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180415200000 -0300" stop="20180416000000 -0300" channel="SBT">
+    <title lang="pt">Programa Silvio Santos</title>
+    <desc lang="pt">Silvio Santos comanda o mais divertido programa da televisão, com Jogos dos Pontinhos, Nada Além de Um Minuto, Jogo dos Casais, Câmera Escondida e Gincanas(n)</desc>
+    <credits>
+      <director>Fabiano Wicher</director>
+      <director>Hélio Chiari</director>
+      <director>Luiz Bento</director>
+      <actor>Luís Ricardo</actor>
+      <actor>Patrícia Salvador</actor>
+      <actor>Patrícia Abravanel</actor>
+      <actor>Lívia Andrade</actor>
+      <actor>Carlinhos Aguiar</actor>
+      <actor>Helen Ganzarolli</actor>
+      <actor>Alexandre Porpetone</actor>
+      <actor>Flôr</actor>
+    </credits>
+    <date>1981</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180416000000 -0300" stop="20180416010000 -0300" channel="SBT">
+    <title lang="pt">Quem Não Viu Vai Ver</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180416010000 -0300" stop="20180416060000 -0300" channel="SBT">
+    <title lang="pt">SBT Notícias</title>
+    <desc lang="pt">SBT Notícias é um telejornal noturno brasileiro, conta com a apresentação de Cassius Zeilmann e João Fernandes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180416060000 -0300" stop="20180416083000 -0300" channel="SBT">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt">Um formato original da emissora americana Univision, o jornal abordará as principais pautas do Brasil e do mundo(n)</desc>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180416083000 -0300" stop="20180416103000 -0300" channel="SBT">
+    <title lang="pt">Mundo Disney</title>
+    <desc lang="pt">O SBT exibe o bloco de programação Mundo Disney, com séries e desenhos animados dos canais Disney Junior e Disney Channel, além de filmes e curtas metragens da Disney(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180416103000 -0300" stop="20180416150000 -0300" channel="SBT">
+    <title lang="pt">Bom Dia &amp; Cia</title>
+    <desc lang="pt">De segunda a sexta, as manhãs do SBT ficam muito mais divertidas com o Bom Diau0026 Cia, um programa que traz os melhores desenhos da televisão brasileira e muitas brincadeiras com o telespectador(n)</desc>
+    <credits>
+      <director>Silvia Abravanel</director>
+      <actor>Ana Julia</actor>
+      <actor>Matheus Ueta</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180416150000 -0300" stop="20180416160000 -0300" channel="SBT">
+    <title lang="pt">Fofocalizando</title>
+    <desc lang="pt">Programa de variedades apresentado por Mamma Bruschetta, Leão Lobo e o Homem do Saco(n)</desc>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180416160000 -0300" stop="20180416170000 -0300" channel="SBT">
+    <title lang="pt">Casos de Família</title>
+    <desc lang="pt">Christina Rocha retrata os mais variados problemas e dramas do cotidiano de pessoas comuns, e mostra opções de como solucioná-los com ajuda de advogados e psicólogos(n)</desc>
+    <credits>
+      <director>Rafael Bello</director>
+      <director>Melissa Ribeiro</director>
+      <director>Raul Garin</director>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180416170000 -0300" stop="20180416181500 -0300" channel="SBT">
+    <title lang="pt">Coração Indomável</title>
+    <desc lang="pt">Depois de ser humilhada, por sua condição humilde, Maricruz muda de identidade e se vinga da família Narváez quando se torna uma mulher rica e poderosa, mostrando ser dona de um Coração Indomável(n)</desc>
+    <credits>
+      <director>Nathalie Lartilleux</director>
+      <actor>Ana Brenda Contreras</actor>
+      <actor>Daniel Arenas</actor>
+      <actor>Elizabeth Álvarez</actor>
+      <actor>René Strickler</actor>
+    </credits>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180416181500 -0300" stop="20180416194500 -0300" channel="SBT">
+    <title lang="pt">Amanhã é Para Sempre</title>
+    <desc lang="pt">Fernanda e Eduardo cresceram juntos, unidos por um amor inocente. Ela é a filha caçula do fazendeiro Gonçalo Elizalde, dono de uma grande companhia leiteira(n)</desc>
+    <credits>
+      <actor>Fernando Colunga</actor>
+      <actor>Silvia Navarro</actor>
+      <actor>Lucero</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180416194500 -0300" stop="20180416203000 -0300" channel="SBT">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo são apresentados aos telespectadores com independência, análise, opinião e isenção, num formato de linguagem visual diferenciada(n)</desc>
+    <credits>
+      <director>Marcelo Parada</director>
+      <actor>Rachel Sheherazade</actor>
+      <actor>Joseval Peixoto</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180416203000 -0300" stop="20180416211500 -0300" channel="SBT">
+    <title lang="pt">Carinha de Anjo</title>
+    <desc lang="pt">Dulce Maria, uma menina de 5 anos que é muito alegre e com bons pensamentos(n)</desc>
+    <credits>
+      <director>Ricardo Mantoanelli</director>
+      <actor>Lorena Queiroz</actor>
+      <actor>Jean Paulo Campos</actor>
+      <actor>Maisa Silva</actor>
+      <actor>Renata Randel</actor>
+      <actor>Siena Belle</actor>
+      <actor>Leonardo Oliveira</actor>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180416211500 -0300" stop="20180416221500 -0300" channel="SBT">
+    <title lang="pt">Chiquititas</title>
+    <desc lang="pt">As chiquititas são meninas que vivem no orfanato Raio de Luz, um lugar que está sempre de portas abertas para acolher crianças abandonadas e dar a elas um lar. O orfanato foi fundado pelo rico Dr. José Ricardo Almeida Campos(n)</desc>
+    <credits>
+      <actor>Giovanna Grigio</actor>
+      <actor>Julia Oliver</actor>
+      <actor>Raissa Chaddad</actor>
+      <actor>Cinthia Cruz</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180416221500 -0300" stop="20180416233000 -0300" channel="SBT">
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais(n)</desc>
+    <credits>
+      <director>Walter Scaramuzzi</director>
+      <director>Lucimara Parisi</director>
+      <actor>Valentina</actor>
+      <actor>Milene Pavorô Uehara</actor>
+      <actor>Eduardo Mascarenhas</actor>
+      <actor>Marquito</actor>
+      <actor>Faxinildo</actor>
+      <actor>Rodela</actor>
+      <actor>Iran Thieme</actor>
+      <actor>Rhenata Tolksdorf</actor>
+    </credits>
+    <date>2009</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+</tv>
